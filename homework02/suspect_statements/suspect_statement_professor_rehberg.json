@@ -1,0 +1,273 @@
+{
+    "name": "Professor Rehberg",
+    "prior_truthfulness": 0.7126272649571658,
+    "suspect_statement": [
+        {
+            "time": "19:00 PM",
+            "location": "Dining Room",
+            "activity": "Returning to mingle with guests"
+        },
+        {
+            "time": "19:10 PM",
+            "location": "Study",
+            "activity": "Serving drinks and chatting with guests"
+        },
+        {
+            "time": "19:20 PM",
+            "location": "Dining Room",
+            "activity": "Swapping drinks unnoticed"
+        },
+        {
+            "time": "19:30 PM",
+            "location": "Kitchen",
+            "activity": "Swapping drinks unnoticed"
+        },
+        {
+            "time": "19:40 PM",
+            "location": "Pantry",
+            "activity": "Taking her dog for a walk"
+        },
+        {
+            "time": "19:50 PM",
+            "location": "Kitchen",
+            "activity": "Rinsing a glass carefully"
+        },
+        {
+            "time": "20:00 PM",
+            "location": "Dining Room",
+            "activity": "Bragging about their Birkin"
+        },
+        {
+            "time": "20:10 PM",
+            "location": "Kitchen",
+            "activity": "Serving drinks and chatting with guests"
+        },
+        {
+            "time": "20:20 PM",
+            "location": "Dining Room",
+            "activity": "Inflating balloons"
+        },
+        {
+            "time": "20:30 PM",
+            "location": "Dining Room",
+            "activity": "Inspecting wine bottles"
+        },
+        {
+            "time": "20:40 PM",
+            "location": "Living Room",
+            "activity": "Rinsing a glass carefully"
+        },
+        {
+            "time": "20:50 PM",
+            "location": "Living Room",
+            "activity": "Inspecting wine bottles"
+        },
+        {
+            "time": "21:00 PM",
+            "location": "Dining Room",
+            "activity": "Serving drinks and chatting with guests"
+        },
+        {
+            "time": "21:10 PM",
+            "location": "Living Room",
+            "activity": "Bringing in the shopping"
+        },
+        {
+            "time": "21:20 PM",
+            "location": "Dining Room",
+            "activity": "Ripping wippets"
+        },
+        {
+            "time": "21:30 PM",
+            "location": "Dining Room",
+            "activity": "Retrieving items from storage"
+        },
+        {
+            "time": "21:40 PM",
+            "location": "Dining Room",
+            "activity": "Swapping drinks unnoticed"
+        },
+        {
+            "time": "21:50 PM",
+            "location": "Dining Room",
+            "activity": "Tampering with drinks"
+        },
+        {
+            "time": "22:00 PM",
+            "location": "Kitchen",
+            "activity": "Inspecting a family heirloom"
+        },
+        {
+            "time": "22:10 PM",
+            "location": "Dining Room",
+            "activity": "Serving drinks and chatting with guests"
+        }
+    ],
+    "gps_data": [
+        {
+            "time": "19:00 PM",
+            "location": "Dining Room",
+            "signal_strength": 0.8165467692839303
+        },
+        {
+            "time": "19:10 PM",
+            "location": "Study",
+            "signal_strength": 0.7066141084986157
+        },
+        {
+            "time": "19:20 PM",
+            "location": "Dining Room",
+            "signal_strength": 0.742151596213857
+        },
+        {
+            "time": "19:30 PM",
+            "location": "Kitchen",
+            "signal_strength": 0.7007468161671377
+        },
+        {
+            "time": "19:40 PM",
+            "location": "Pantry",
+            "signal_strength": 0.8954802589432994
+        },
+        {
+            "time": "19:50 PM",
+            "location": "Kitchen",
+            "signal_strength": 0.8455233975805759
+        },
+        {
+            "time": "20:00 PM",
+            "location": "Dining Room",
+            "signal_strength": 0.82368883184579
+        },
+        {
+            "time": "20:10 PM",
+            "location": "Kitchen",
+            "signal_strength": 0.7915447181225423
+        },
+        {
+            "time": "20:20 PM",
+            "location": "Dining Room",
+            "signal_strength": 0.7778470116044619
+        },
+        {
+            "time": "20:30 PM",
+            "location": "Dining Room",
+            "signal_strength": 0.8947212142196481
+        },
+        {
+            "time": "20:40 PM",
+            "location": "Living Room",
+            "signal_strength": 0.8733816596147183
+        },
+        {
+            "time": "20:50 PM",
+            "location": "Living Room",
+            "signal_strength": 0.7102650934403465
+        },
+        {
+            "time": "21:00 PM",
+            "location": "Dining Room",
+            "signal_strength": 0.7051579751310264
+        },
+        {
+            "time": "21:10 PM",
+            "location": "Living Room",
+            "signal_strength": 0.8854501281824241
+        },
+        {
+            "time": "21:20 PM",
+            "location": "Dining Room",
+            "signal_strength": 0.8146779658376052
+        },
+        {
+            "time": "21:30 PM",
+            "location": "Dining Room",
+            "signal_strength": 0.8769810925271189
+        },
+        {
+            "time": "21:40 PM",
+            "location": "Dining Room",
+            "signal_strength": 0.8626662224702943
+        },
+        {
+            "time": "21:50 PM",
+            "location": "Dining Room",
+            "signal_strength": 0.8840434705925955
+        },
+        {
+            "time": "22:00 PM",
+            "location": "Kitchen",
+            "signal_strength": 0.7568958493457014
+        },
+        {
+            "time": "22:10 PM",
+            "location": "Dining Room",
+            "signal_strength": 0.7143311595449024
+        }
+    ],
+    "witness_statements": {
+        "Tom": {
+            "witness_reliability": 0.7255936356331383,
+            "observations": []
+        },
+        "Pancho": {
+            "witness_reliability": 0.7616764317353877,
+            "observations": []
+        },
+        "Sophia": {
+            "witness_reliability": 0.8980805056119231,
+            "observations": [
+                {
+                    "time": "20:10 PM",
+                    "location": "Kitchen",
+                    "activity": "Swapping drinks unnoticed"
+                }
+            ]
+        },
+        "Olivia": {
+            "witness_reliability": 0.8048848764471324,
+            "observations": [
+                {
+                    "time": "22:10 PM",
+                    "location": "Dining Room",
+                    "activity": "Serving drinks and chatting with guests"
+                }
+            ]
+        },
+        "Sam": {
+            "witness_reliability": 0.8501686127357544,
+            "observations": [
+                {
+                    "time": "20:00 PM",
+                    "location": "Dining Room",
+                    "activity": "Tampering with drinks"
+                },
+                {
+                    "time": "20:50 PM",
+                    "location": "Living Room",
+                    "activity": "Swapping drinks unnoticed"
+                },
+                {
+                    "time": "21:00 PM",
+                    "location": "Dining Room",
+                    "activity": "Rinsing a glass carefully"
+                },
+                {
+                    "time": "21:40 PM",
+                    "location": "Dining Room",
+                    "activity": "Inspecting wine bottles"
+                }
+            ]
+        },
+        "Tyler": {
+            "witness_reliability": 0.800938720596806,
+            "observations": [
+                {
+                    "time": "19:20 PM",
+                    "location": "Dining Room",
+                    "activity": "Swapping drinks unnoticed"
+                }
+            ]
+        }
+    }
+}

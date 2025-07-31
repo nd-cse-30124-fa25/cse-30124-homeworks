@@ -1,0 +1,290 @@
+{
+    "name": "Professor Chambers",
+    "prior_truthfulness": 0.6073851782953529,
+    "suspect_statement": [
+        {
+            "time": "19:00 PM",
+            "location": "Living Room",
+            "activity": "Inspecting wine bottles"
+        },
+        {
+            "time": "19:10 PM",
+            "location": "Study",
+            "activity": "Taking her dog for a walk"
+        },
+        {
+            "time": "19:20 PM",
+            "location": "Living Room",
+            "activity": "Reading a novel quietly"
+        },
+        {
+            "time": "19:30 PM",
+            "location": "Study",
+            "activity": "Tying decorative knots"
+        },
+        {
+            "time": "19:40 PM",
+            "location": "Living Room",
+            "activity": "Observing guests from afar"
+        },
+        {
+            "time": "19:50 PM",
+            "location": "Living Room",
+            "activity": "Reading a novel quietly"
+        },
+        {
+            "time": "20:00 PM",
+            "location": "Study",
+            "activity": "Rinsing a glass carefully"
+        },
+        {
+            "time": "20:10 PM",
+            "location": "Living Room",
+            "activity": "Observing guests from afar"
+        },
+        {
+            "time": "20:20 PM",
+            "location": "Living Room",
+            "activity": "Taking her dog for a walk"
+        },
+        {
+            "time": "20:30 PM",
+            "location": "Study",
+            "activity": "Raising a painting"
+        },
+        {
+            "time": "20:40 PM",
+            "location": "Living Room",
+            "activity": "Inflating balloons"
+        },
+        {
+            "time": "20:50 PM",
+            "location": "Bathroom",
+            "activity": "Taking her dog for a walk"
+        },
+        {
+            "time": "21:00 PM",
+            "location": "Living Room",
+            "activity": "Raising a painting"
+        },
+        {
+            "time": "21:10 PM",
+            "location": "Bathroom",
+            "activity": "Tampering with drinks"
+        },
+        {
+            "time": "21:20 PM",
+            "location": "Bathroom",
+            "activity": "Reorganizing books and materials"
+        },
+        {
+            "time": "21:30 PM",
+            "location": "Living Room",
+            "activity": "Raising a painting"
+        },
+        {
+            "time": "21:40 PM",
+            "location": "Study",
+            "activity": "Raising a painting"
+        },
+        {
+            "time": "21:50 PM",
+            "location": "Study",
+            "activity": "Bringing in the shopping"
+        },
+        {
+            "time": "22:00 PM",
+            "location": "Study",
+            "activity": "Raising a painting"
+        },
+        {
+            "time": "22:10 PM",
+            "location": "Study",
+            "activity": "Chatting with guests"
+        }
+    ],
+    "gps_data": [
+        {
+            "time": "19:00 PM",
+            "location": "Living Room",
+            "signal_strength": 0.8017989421903304
+        },
+        {
+            "time": "19:10 PM",
+            "location": "Study",
+            "signal_strength": 0.8187942962723017
+        },
+        {
+            "time": "19:20 PM",
+            "location": "Living Room",
+            "signal_strength": 0.7083242198880357
+        },
+        {
+            "time": "19:30 PM",
+            "location": "Study",
+            "signal_strength": 0.7042413842385673
+        },
+        {
+            "time": "19:40 PM",
+            "location": "Living Room",
+            "signal_strength": 0.7677014023203689
+        },
+        {
+            "time": "19:50 PM",
+            "location": "Living Room",
+            "signal_strength": 0.8575718115073406
+        },
+        {
+            "time": "20:00 PM",
+            "location": "Study",
+            "signal_strength": 0.846191005489855
+        },
+        {
+            "time": "20:10 PM",
+            "location": "Living Room",
+            "signal_strength": 0.8758838604367115
+        },
+        {
+            "time": "20:20 PM",
+            "location": "Living Room",
+            "signal_strength": 0.7253414231179591
+        },
+        {
+            "time": "20:30 PM",
+            "location": "Study",
+            "signal_strength": 0.7510683214780538
+        },
+        {
+            "time": "20:40 PM",
+            "location": "Living Room",
+            "signal_strength": 0.7275798587245803
+        },
+        {
+            "time": "20:50 PM",
+            "location": "Bathroom",
+            "signal_strength": 0.7692162064396529
+        },
+        {
+            "time": "21:00 PM",
+            "location": "Living Room",
+            "signal_strength": 0.7567633406085513
+        },
+        {
+            "time": "21:10 PM",
+            "location": "Bathroom",
+            "signal_strength": 0.8896304847673944
+        },
+        {
+            "time": "21:20 PM",
+            "location": "Bathroom",
+            "signal_strength": 0.8686383279874893
+        },
+        {
+            "time": "21:30 PM",
+            "location": "Living Room",
+            "signal_strength": 0.7622540383839163
+        },
+        {
+            "time": "21:40 PM",
+            "location": "Study",
+            "signal_strength": 0.8374522131323521
+        },
+        {
+            "time": "21:50 PM",
+            "location": "Study",
+            "signal_strength": 0.7848322762537244
+        },
+        {
+            "time": "22:00 PM",
+            "location": "Study",
+            "signal_strength": 0.7496912854576564
+        },
+        {
+            "time": "22:10 PM",
+            "location": "Study",
+            "signal_strength": 0.7791050834358169
+        }
+    ],
+    "witness_statements": {
+        "Tom": {
+            "witness_reliability": 0.7657531235431785,
+            "observations": [
+                {
+                    "time": "22:10 PM",
+                    "location": "Study",
+                    "activity": "Raising a painting"
+                }
+            ]
+        },
+        "Pancho": {
+            "witness_reliability": 0.8083827790839541,
+            "observations": [
+                {
+                    "time": "20:20 PM",
+                    "location": "Living Room",
+                    "activity": "Raising a painting"
+                },
+                {
+                    "time": "21:40 PM",
+                    "location": "Study",
+                    "activity": "Taking her dog for a walk"
+                },
+                {
+                    "time": "21:50 PM",
+                    "location": "Study",
+                    "activity": "Observing guests from afar"
+                }
+            ]
+        },
+        "Sophia": {
+            "witness_reliability": 0.8659503932004338,
+            "observations": [
+                {
+                    "time": "19:00 PM",
+                    "location": "Living Room",
+                    "activity": "Raising a painting"
+                }
+            ]
+        },
+        "Olivia": {
+            "witness_reliability": 0.7238493897375868,
+            "observations": [
+                {
+                    "time": "19:50 PM",
+                    "location": "Living Room",
+                    "activity": "Taking her dog for a walk"
+                },
+                {
+                    "time": "20:30 PM",
+                    "location": "Study",
+                    "activity": "Tying decorative knots"
+                },
+                {
+                    "time": "21:20 PM",
+                    "location": "Bathroom",
+                    "activity": "Reorganizing books and materials"
+                }
+            ]
+        },
+        "Sam": {
+            "witness_reliability": 0.8847336182272965,
+            "observations": [
+                {
+                    "time": "21:00 PM",
+                    "location": "Living Room",
+                    "activity": "Raising a painting"
+                }
+            ]
+        },
+        "Tyler": {
+            "witness_reliability": 0.7890874658409142,
+            "observations": [
+                {
+                    "time": "20:00 PM",
+                    "location": "Study",
+                    "activity": "Reorganizing books and materials"
+                }
+            ]
+        }
+    }
+}
