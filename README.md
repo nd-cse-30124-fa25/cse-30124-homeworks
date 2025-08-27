@@ -2,8 +2,8 @@
 
 This is the [CSE-30124-SP25] homeworks repository for:
 
-- **Name**:     Domer McDomerson
-- **NetID**:    dmcdomer
+- **Name**:     Noah Thompson
+- **NetID**:    nthomps7
 
 - **Name**:     Domer McDomerson
 - **NetID**:    dmcdomer
