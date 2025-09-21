@@ -2,23 +2,23 @@
 
 ### Homework 01
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/nd-cse-30124-fa25/cse-30124-homeworks/blob/master/homework01/homework01.ipynb)
+https://colab.research.google.com/github/nd-cse-30124-fa25/cse-30124-homeworks/blob/main/homework01/homework01.ipynb)
 
 ### Homework 02
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/nd-cse-30124-fa25/cse-30124-homeworks/blob/master/homework02/homework02.ipynb)
+https://colab.research.google.com/github/nd-cse-30124-fa25/cse-30124-homeworks/blob/main/homework02/homework02.ipynb)
 
 ### Homework 03
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/nd-cse-30124-fa25/cse-30124-homeworks/blob/master/homework03/homework03.ipynb)
+https://colab.research.google.com/github/nd-cse-30124-fa25/cse-30124-homeworks/blob/main/homework03/homework03.ipynb)
 
 ### Homework 04
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/nd-cse-30124-fa25/cse-30124-homeworks/blob/master/homework04/homework04.ipynb)
+https://colab.research.google.com/github/nd-cse-30124-fa25/cse-30124-homeworks/blob/main/homework04/homework04.ipynb)
 
 ### Homework 05
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/nd-cse-30124-fa25/cse-30124-homeworks/blob/master/homework05/homework05.ipynb)
+https://colab.research.google.com/github/nd-cse-30124-fa25/cse-30124-homeworks/blob/main/homework05/homework05.ipynb)
 
 This is the [CSE-30124-SP25] homeworks repository for:
 
