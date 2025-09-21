@@ -1,0 +1,105 @@
+{
+    "name": "Professor Plum",
+    "suspect_statement": [
+        {
+            "time": "19:00 PM",
+            "location": "Bathroom",
+            "activity": "Opening letters"
+        },
+        {
+            "time": "19:10 PM",
+            "location": "Living Room",
+            "activity": "Reading a novel quietly"
+        },
+        {
+            "time": "19:20 PM",
+            "location": "Bathroom",
+            "activity": "Tying decorative knots"
+        },
+        {
+            "time": "19:30 PM",
+            "location": "Living Room",
+            "activity": "Taking her dog for a walk"
+        },
+        {
+            "time": "19:40 PM",
+            "location": "Bathroom",
+            "activity": "Whittling a stick"
+        },
+        {
+            "time": "19:50 PM",
+            "location": "Bathroom",
+            "activity": "Peeling an orange"
+        },
+        {
+            "time": "20:00 PM",
+            "location": "Living Room",
+            "activity": "Peeling an orange"
+        },
+        {
+            "time": "20:10 PM",
+            "location": "Study",
+            "activity": "Whittling a stick"
+        },
+        {
+            "time": "20:20 PM",
+            "location": "Study",
+            "activity": "Returning to mingle with guests"
+        },
+        {
+            "time": "20:30 PM",
+            "location": "Study",
+            "activity": "Opening letters"
+        },
+        {
+            "time": "20:40 PM",
+            "location": "Study",
+            "activity": "Peeling an orange"
+        },
+        {
+            "time": "20:50 PM",
+            "location": "Living Room",
+            "activity": "Opening letters"
+        },
+        {
+            "time": "21:00 PM",
+            "location": "Bathroom",
+            "activity": "Returning to mingle with guests"
+        },
+        {
+            "time": "21:10 PM",
+            "location": "Living Room",
+            "activity": "Whittling a stick"
+        },
+        {
+            "time": "21:20 PM",
+            "location": "Study",
+            "activity": "Returning to mingle with guests"
+        },
+        {
+            "time": "21:30 PM",
+            "location": "Dining Room",
+            "activity": "Inflating balloons"
+        },
+        {
+            "time": "21:40 PM",
+            "location": "Study",
+            "activity": "Peeling an orange"
+        },
+        {
+            "time": "21:50 PM",
+            "location": "Study",
+            "activity": "Peeling an orange"
+        },
+        {
+            "time": "22:00 PM",
+            "location": "Study",
+            "activity": "Reading a novel quietly"
+        },
+        {
+            "time": "22:10 PM",
+            "location": "Study",
+            "activity": "Reading a novel quietly"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "name": "Professor Plum",
+    "suspect_statement": [
+        {
+            "time": "19:00 PM",
+            "location": "Study",
+            "activity": "Returning to mingle with guests"
+        },
+        {
+            "time": "19:10 PM",
+            "location": "Study",
+            "activity": "Taking her dog for a walk"
+        },
+        {
+            "time": "19:20 PM",
+            "location": "Living Room",
+            "activity": "Returning to mingle with guests"
+        },
+        {
+            "time": "19:30 PM",
+            "location": "Study",
+            "activity": "Peeling an orange"
+        },
+        {
+            "time": "19:40 PM",
+            "location": "Study",
+            "activity": "Returning to mingle with guests"
+        },
+        {
+            "time": "19:50 PM",
+            "location": "Study",
+            "activity": "Whittling a stick"
+        },
+        {
+            "time": "20:00 PM",
+            "location": "Study",
+            "activity": "Ripping wippets"
+        },
+        {
+            "time": "20:10 PM",
+            "location": "Study",
+            "activity": "Peeling an orange"
+        },
+        {
+            "time": "20:20 PM",
+            "location": "Living Room",
+            "activity": "Returning to mingle with guests"
+        },
+        {
+            "time": "20:30 PM",
+            "location": "Study",
+            "activity": "Whittling a stick"
+        },
+        {
+            "time": "20:40 PM",
+            "location": "Study",
+            "activity": "Observing guests from afar"
+        },
+        {
+            "time": "20:50 PM",
+            "location": "Study",
+            "activity": "Returning to mingle with guests"
+        },
+        {
+            "time": "21:00 PM",
+            "location": "Study",
+            "activity": "Observing guests from afar"
+        },
+        {
+            "time": "21:10 PM",
+            "location": "Study",
+            "activity": "Complaining about TSA going through their purse"
+        },
+        {
+            "time": "21:20 PM",
+            "location": "Dining Room",
+            "activity": "Peeling an orange"
+        },
+        {
+            "time": "21:30 PM",
+            "location": "Dining Room",
+            "activity": "Looking in drawers"
+        },
+        {
+            "time": "21:40 PM",
+            "location": "Kitchen",
+            "activity": "Taking her dog for a walk"
+        },
+        {
+            "time": "21:50 PM",
+            "location": "Pantry",
+            "activity": "Whittling a stick"
+        },
+        {
+            "time": "22:00 PM",
+            "location": "Kitchen",
+            "activity": "Whittling a stick"
+        },
+        {
+            "time": "22:10 PM",
+            "location": "Pantry",
+            "activity": "Peeling an orange"
+        }
+    ]
+}

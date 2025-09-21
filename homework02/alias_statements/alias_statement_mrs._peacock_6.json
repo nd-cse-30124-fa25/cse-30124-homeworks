@@ -1,0 +1,105 @@
+{
+    "name": "Mrs. Peacock",
+    "suspect_statement": [
+        {
+            "time": "19:00 PM",
+            "location": "Kitchen",
+            "activity": "Bringing in the shopping"
+        },
+        {
+            "time": "19:10 PM",
+            "location": "Dining Room",
+            "activity": "Reading warning labels"
+        },
+        {
+            "time": "19:20 PM",
+            "location": "Kitchen",
+            "activity": "Complaining about TSA going through their purse"
+        },
+        {
+            "time": "19:30 PM",
+            "location": "Kitchen",
+            "activity": "Complaining about TSA going through their purse"
+        },
+        {
+            "time": "19:40 PM",
+            "location": "Pantry",
+            "activity": "Bragging about their Birkin"
+        },
+        {
+            "time": "19:50 PM",
+            "location": "Kitchen",
+            "activity": "Complaining about TSA going through their purse"
+        },
+        {
+            "time": "20:00 PM",
+            "location": "Dining Room",
+            "activity": "Tampering with drinks"
+        },
+        {
+            "time": "20:10 PM",
+            "location": "Kitchen",
+            "activity": "Speaking in a high-pitched voice"
+        },
+        {
+            "time": "20:20 PM",
+            "location": "Kitchen",
+            "activity": "Peeling an orange"
+        },
+        {
+            "time": "20:30 PM",
+            "location": "Dining Room",
+            "activity": "Chatting with guests"
+        },
+        {
+            "time": "20:40 PM",
+            "location": "Kitchen",
+            "activity": "Retrieving items from storage"
+        },
+        {
+            "time": "20:50 PM",
+            "location": "Kitchen",
+            "activity": "Bringing in the shopping"
+        },
+        {
+            "time": "21:00 PM",
+            "location": "Dining Room",
+            "activity": "Chatting with guests"
+        },
+        {
+            "time": "21:10 PM",
+            "location": "Dining Room",
+            "activity": "Speaking in a high-pitched voice"
+        },
+        {
+            "time": "21:20 PM",
+            "location": "Kitchen",
+            "activity": "Returning to mingle with guests"
+        },
+        {
+            "time": "21:30 PM",
+            "location": "Kitchen",
+            "activity": "Bragging about their Birkin"
+        },
+        {
+            "time": "21:40 PM",
+            "location": "Dining Room",
+            "activity": "Bringing in the shopping"
+        },
+        {
+            "time": "21:50 PM",
+            "location": "Dining Room",
+            "activity": "Bringing in the shopping"
+        },
+        {
+            "time": "22:00 PM",
+            "location": "Study",
+            "activity": "Chatting with guests"
+        },
+        {
+            "time": "22:10 PM",
+            "location": "Dining Room",
+            "activity": "Peeling an orange"
+        }
+    ]
+}

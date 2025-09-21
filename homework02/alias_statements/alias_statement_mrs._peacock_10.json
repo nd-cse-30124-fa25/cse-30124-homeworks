@@ -1,0 +1,105 @@
+{
+    "name": "Mrs. Peacock",
+    "suspect_statement": [
+        {
+            "time": "19:00 PM",
+            "location": "Dining Room",
+            "activity": "Observing guests from afar"
+        },
+        {
+            "time": "19:10 PM",
+            "location": "Dining Room",
+            "activity": "Bragging about their Birkin"
+        },
+        {
+            "time": "19:20 PM",
+            "location": "Study",
+            "activity": "Retrieving items from storage"
+        },
+        {
+            "time": "19:30 PM",
+            "location": "Study",
+            "activity": "Bringing in the shopping"
+        },
+        {
+            "time": "19:40 PM",
+            "location": "Living Room",
+            "activity": "Chatting with guests"
+        },
+        {
+            "time": "19:50 PM",
+            "location": "Study",
+            "activity": "Retrieving items from storage"
+        },
+        {
+            "time": "20:00 PM",
+            "location": "Dining Room",
+            "activity": "Serving drinks and chatting with guests"
+        },
+        {
+            "time": "20:10 PM",
+            "location": "Dining Room",
+            "activity": "Complaining about TSA going through their purse"
+        },
+        {
+            "time": "20:20 PM",
+            "location": "Dining Room",
+            "activity": "Complaining about TSA going through their purse"
+        },
+        {
+            "time": "20:30 PM",
+            "location": "Dining Room",
+            "activity": "Complaining about TSA going through their purse"
+        },
+        {
+            "time": "20:40 PM",
+            "location": "Kitchen",
+            "activity": "Opening a safe"
+        },
+        {
+            "time": "20:50 PM",
+            "location": "Pantry",
+            "activity": "Rinsing a glass carefully"
+        },
+        {
+            "time": "21:00 PM",
+            "location": "Kitchen",
+            "activity": "Polishing household items"
+        },
+        {
+            "time": "21:10 PM",
+            "location": "Dining Room",
+            "activity": "Retrieving items from storage"
+        },
+        {
+            "time": "21:20 PM",
+            "location": "Dining Room",
+            "activity": "Bringing in the shopping"
+        },
+        {
+            "time": "21:30 PM",
+            "location": "Dining Room",
+            "activity": "Bringing in the shopping"
+        },
+        {
+            "time": "21:40 PM",
+            "location": "Kitchen",
+            "activity": "Inflating balloons"
+        },
+        {
+            "time": "21:50 PM",
+            "location": "Dining Room",
+            "activity": "Chatting with guests"
+        },
+        {
+            "time": "22:00 PM",
+            "location": "Kitchen",
+            "activity": "Polishing household items"
+        },
+        {
+            "time": "22:10 PM",
+            "location": "Kitchen",
+            "activity": "Chatting with guests"
+        }
+    ]
+}

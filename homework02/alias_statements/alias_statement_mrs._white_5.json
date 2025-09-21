@@ -1,0 +1,105 @@
+{
+    "name": "Mrs. White",
+    "suspect_statement": [
+        {
+            "time": "19:00 PM",
+            "location": "Kitchen",
+            "activity": "Talking about skeet shooting"
+        },
+        {
+            "time": "19:10 PM",
+            "location": "Kitchen",
+            "activity": "Washing up after handling items"
+        },
+        {
+            "time": "19:20 PM",
+            "location": "Dining Room",
+            "activity": "Talking about skeet shooting"
+        },
+        {
+            "time": "19:30 PM",
+            "location": "Dining Room",
+            "activity": "Talking about skeet shooting"
+        },
+        {
+            "time": "19:40 PM",
+            "location": "Kitchen",
+            "activity": "Returning to mingle with guests"
+        },
+        {
+            "time": "19:50 PM",
+            "location": "Pantry",
+            "activity": "Talking about skeet shooting"
+        },
+        {
+            "time": "20:00 PM",
+            "location": "Kitchen",
+            "activity": "Opening a safe"
+        },
+        {
+            "time": "20:10 PM",
+            "location": "Dining Room",
+            "activity": "Opening a safe"
+        },
+        {
+            "time": "20:20 PM",
+            "location": "Living Room",
+            "activity": "Opening a safe"
+        },
+        {
+            "time": "20:30 PM",
+            "location": "Living Room",
+            "activity": "Reorganizing books and materials"
+        },
+        {
+            "time": "20:40 PM",
+            "location": "Living Room",
+            "activity": "Polishing household items"
+        },
+        {
+            "time": "20:50 PM",
+            "location": "Living Room",
+            "activity": "Opening a safe"
+        },
+        {
+            "time": "21:00 PM",
+            "location": "Bathroom",
+            "activity": "Complaining about TSA going through their purse"
+        },
+        {
+            "time": "21:10 PM",
+            "location": "Living Room",
+            "activity": "Bringing in the shopping"
+        },
+        {
+            "time": "21:20 PM",
+            "location": "Study",
+            "activity": "Inspecting wine bottles"
+        },
+        {
+            "time": "21:30 PM",
+            "location": "Dining Room",
+            "activity": "Bringing in the shopping"
+        },
+        {
+            "time": "21:40 PM",
+            "location": "Study",
+            "activity": "Inspecting a family heirloom"
+        },
+        {
+            "time": "21:50 PM",
+            "location": "Living Room",
+            "activity": "Opening a safe"
+        },
+        {
+            "time": "22:00 PM",
+            "location": "Living Room",
+            "activity": "Washing up after handling items"
+        },
+        {
+            "time": "22:10 PM",
+            "location": "Dining Room",
+            "activity": "Talking about skeet shooting"
+        }
+    ]
+}

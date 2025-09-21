@@ -1,0 +1,105 @@
+{
+    "name": "Mrs. Peacock",
+    "suspect_statement": [
+        {
+            "time": "19:00 PM",
+            "location": "Kitchen",
+            "activity": "Bragging about their Birkin"
+        },
+        {
+            "time": "19:10 PM",
+            "location": "Pantry",
+            "activity": "Retrieving items from storage"
+        },
+        {
+            "time": "19:20 PM",
+            "location": "Kitchen",
+            "activity": "Taking her dog for a walk"
+        },
+        {
+            "time": "19:30 PM",
+            "location": "Dining Room",
+            "activity": "Complaining about TSA going through their purse"
+        },
+        {
+            "time": "19:40 PM",
+            "location": "Dining Room",
+            "activity": "Complaining about TSA going through their purse"
+        },
+        {
+            "time": "19:50 PM",
+            "location": "Dining Room",
+            "activity": "Washing up after handling items"
+        },
+        {
+            "time": "20:00 PM",
+            "location": "Living Room",
+            "activity": "Bringing in the shopping"
+        },
+        {
+            "time": "20:10 PM",
+            "location": "Study",
+            "activity": "Bringing in the shopping"
+        },
+        {
+            "time": "20:20 PM",
+            "location": "Study",
+            "activity": "Bringing in the shopping"
+        },
+        {
+            "time": "20:30 PM",
+            "location": "Dining Room",
+            "activity": "Chatting with guests"
+        },
+        {
+            "time": "20:40 PM",
+            "location": "Study",
+            "activity": "Chatting with guests"
+        },
+        {
+            "time": "20:50 PM",
+            "location": "Dining Room",
+            "activity": "Chatting with guests"
+        },
+        {
+            "time": "21:00 PM",
+            "location": "Dining Room",
+            "activity": "Retrieving items from storage"
+        },
+        {
+            "time": "21:10 PM",
+            "location": "Dining Room",
+            "activity": "Bragging about their Birkin"
+        },
+        {
+            "time": "21:20 PM",
+            "location": "Study",
+            "activity": "Complaining about TSA going through their purse"
+        },
+        {
+            "time": "21:30 PM",
+            "location": "Living Room",
+            "activity": "Complaining about TSA going through their purse"
+        },
+        {
+            "time": "21:40 PM",
+            "location": "Study",
+            "activity": "Chatting with guests"
+        },
+        {
+            "time": "21:50 PM",
+            "location": "Dining Room",
+            "activity": "Retrieving items from storage"
+        },
+        {
+            "time": "22:00 PM",
+            "location": "Study",
+            "activity": "Reading a novel quietly"
+        },
+        {
+            "time": "22:10 PM",
+            "location": "Dining Room",
+            "activity": "Complaining about TSA going through their purse"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "name": "Mr. Green",
+    "suspect_statement": [
+        {
+            "time": "19:00 PM",
+            "location": "Kitchen",
+            "activity": "Rinsing a glass carefully"
+        },
+        {
+            "time": "19:10 PM",
+            "location": "Pantry",
+            "activity": "Ripping wippets"
+        },
+        {
+            "time": "19:20 PM",
+            "location": "Kitchen",
+            "activity": "Ripping wippets"
+        },
+        {
+            "time": "19:30 PM",
+            "location": "Kitchen",
+            "activity": "Raising a painting"
+        },
+        {
+            "time": "19:40 PM",
+            "location": "Kitchen",
+            "activity": "Ripping wippets"
+        },
+        {
+            "time": "19:50 PM",
+            "location": "Pantry",
+            "activity": "Inflating balloons"
+        },
+        {
+            "time": "20:00 PM",
+            "location": "Pantry",
+            "activity": "Swapping drinks unnoticed"
+        },
+        {
+            "time": "20:10 PM",
+            "location": "Kitchen",
+            "activity": "Polishing household items"
+        },
+        {
+            "time": "20:20 PM",
+            "location": "Kitchen",
+            "activity": "Reading warning labels"
+        },
+        {
+            "time": "20:30 PM",
+            "location": "Kitchen",
+            "activity": "Looking in drawers"
+        },
+        {
+            "time": "20:40 PM",
+            "location": "Kitchen",
+            "activity": "Tampering with drinks"
+        },
+        {
+            "time": "20:50 PM",
+            "location": "Kitchen",
+            "activity": "Looking in drawers"
+        },
+        {
+            "time": "21:00 PM",
+            "location": "Pantry",
+            "activity": "Inflating balloons"
+        },
+        {
+            "time": "21:10 PM",
+            "location": "Kitchen",
+            "activity": "Speaking in a high-pitched voice"
+        },
+        {
+            "time": "21:20 PM",
+            "location": "Pantry",
+            "activity": "Ripping wippets"
+        },
+        {
+            "time": "21:30 PM",
+            "location": "Kitchen",
+            "activity": "Polishing household items"
+        },
+        {
+            "time": "21:40 PM",
+            "location": "Pantry",
+            "activity": "Complaining about TSA going through their purse"
+        },
+        {
+            "time": "21:50 PM",
+            "location": "Pantry",
+            "activity": "Reading warning labels"
+        },
+        {
+            "time": "22:00 PM",
+            "location": "Kitchen",
+            "activity": "Returning to mingle with guests"
+        },
+        {
+            "time": "22:10 PM",
+            "location": "Kitchen",
+            "activity": "Speaking in a high-pitched voice"
+        }
+    ]
+}

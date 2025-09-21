@@ -1,0 +1,105 @@
+{
+    "name": "Miss Scarlet",
+    "suspect_statement": [
+        {
+            "time": "19:00 PM",
+            "location": "Study",
+            "activity": "Taking her dog for a walk"
+        },
+        {
+            "time": "19:10 PM",
+            "location": "Dining Room",
+            "activity": "Bringing in the shopping"
+        },
+        {
+            "time": "19:20 PM",
+            "location": "Dining Room",
+            "activity": "Raising a painting"
+        },
+        {
+            "time": "19:30 PM",
+            "location": "Living Room",
+            "activity": "Observing guests from afar"
+        },
+        {
+            "time": "19:40 PM",
+            "location": "Study",
+            "activity": "Observing guests from afar"
+        },
+        {
+            "time": "19:50 PM",
+            "location": "Study",
+            "activity": "Reorganizing books and materials"
+        },
+        {
+            "time": "20:00 PM",
+            "location": "Study",
+            "activity": "Reorganizing books and materials"
+        },
+        {
+            "time": "20:10 PM",
+            "location": "Dining Room",
+            "activity": "Observing guests from afar"
+        },
+        {
+            "time": "20:20 PM",
+            "location": "Living Room",
+            "activity": "Peeling an orange"
+        },
+        {
+            "time": "20:30 PM",
+            "location": "Dining Room",
+            "activity": "Taking her dog for a walk"
+        },
+        {
+            "time": "20:40 PM",
+            "location": "Study",
+            "activity": "Chatting with guests"
+        },
+        {
+            "time": "20:50 PM",
+            "location": "Living Room",
+            "activity": "Observing guests from afar"
+        },
+        {
+            "time": "21:00 PM",
+            "location": "Study",
+            "activity": "Tying decorative knots"
+        },
+        {
+            "time": "21:10 PM",
+            "location": "Dining Room",
+            "activity": "Whittling a stick"
+        },
+        {
+            "time": "21:20 PM",
+            "location": "Living Room",
+            "activity": "Raising a painting"
+        },
+        {
+            "time": "21:30 PM",
+            "location": "Living Room",
+            "activity": "Observing guests from afar"
+        },
+        {
+            "time": "21:40 PM",
+            "location": "Living Room",
+            "activity": "Raising a painting"
+        },
+        {
+            "time": "21:50 PM",
+            "location": "Study",
+            "activity": "Taking her dog for a walk"
+        },
+        {
+            "time": "22:00 PM",
+            "location": "Study",
+            "activity": "Tying decorative knots"
+        },
+        {
+            "time": "22:10 PM",
+            "location": "Living Room",
+            "activity": "Opening a safe"
+        }
+    ]
+}
