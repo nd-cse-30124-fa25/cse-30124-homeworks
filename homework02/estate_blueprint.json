@@ -1,60 +1,60 @@
 {
     "rooms": {
         "Study": {
-            "id": 0,
+            "id": "0",
             "adjacent_to": ["Study", "Dining Room", "Living Room"]
         },
         "Dining Room": {
-            "id": 1,
+            "id": "1",
             "adjacent_to": ["Study", "Dining Room", "Kitchen", "Living Room"]
         },
         "Kitchen": {
-            "id": 2,
+            "id": "2",
             "adjacent_to": ["Dining Room", "Kitchen", "Pantry"]
         },
         "Pantry": {
-            "id": 3,
+            "id": "3",
             "adjacent_to": ["Kitchen", "Pantry"]
         },
         "Living Room": {
-            "id": 4,
+            "id": "4",
             "adjacent_to": ["Study", "Dining Room", "Living Room", "Bathroom"]
         },
         "Bathroom": {
-            "id": 5,
+            "id": "5",
             "adjacent_to": ["Living Room", "Bathroom"]
         }
     },
     "transition_probabilities": {
-        0: {
-            0: 0.4,
-            1: 0.3,
-            4: 0.3
+        "0": {
+            "0": 0.4,
+            "1": 0.3,
+            "4": 0.3
         },
-        1: {
-            0: 0.25,
-            1: 0.25,
-            2: 0.25,
-            4: 0.25
+        "1": {
+            "0": 0.25,
+            "1": 0.25,
+            "2": 0.25,
+            "4": 0.25
         },
-        2: {
-            1: 0.4,
-            2: 0.2,
-            3: 0.2
+        "2": {
+            "1": 0.4,
+            "2": 0.2,
+            "3": 0.2
         },
-        3: {
-            2: 0.8,
-            3: 0.2
+        "3": {
+            "2": 0.8,
+            "3": 0.2
         },
-        4: {
-            0: 0.25,
-            1: 0.25,
-            4: 0.25,
-            5: 0.25 
+        "4": {
+            "0": 0.25,
+            "1": 0.25,
+            "4": 0.25,
+            "5": 0.25 
         },
-        5: {
-            4: 0.7,
-            5: 0.3
+        "5": {
+            "4": 0.7,
+            "5": 0.3
         }
     }
 }
