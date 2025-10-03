@@ -1,276 +1,311 @@
 {
     "name": "Sophia Noonan",
-    "prior_truthfulness": 0.5097796217053016,
     "suspect_statement": [
         {
             "time": "19:00 PM",
-            "location": "Dining Room",
-            "activity": "Talking about skeet shooting"
+            "location": "Living Room",
+            "activity": "Inspecting wine bottles"
         },
         {
             "time": "19:10 PM",
-            "location": "Kitchen",
-            "activity": "Tying decorative knots"
+            "location": "Study",
+            "activity": "Taking her dog for a walk"
         },
         {
             "time": "19:20 PM",
-            "location": "Dining Room",
-            "activity": "Inflating balloons"
+            "location": "Living Room",
+            "activity": "Reading a novel quietly"
         },
         {
             "time": "19:30 PM",
-            "location": "Dining Room",
-            "activity": "Complaining about TSA going through their purse"
+            "location": "Study",
+            "activity": "Tying decorative knots"
         },
         {
             "time": "19:40 PM",
-            "location": "Dining Room",
-            "activity": "Looking in drawers"
+            "location": "Living Room",
+            "activity": "Observing guests from afar"
         },
         {
             "time": "19:50 PM",
-            "location": "Kitchen",
-            "activity": "Ripping wippets"
+            "location": "Living Room",
+            "activity": "Reading a novel quietly"
         },
         {
             "time": "20:00 PM",
-            "location": "Dining Room",
-            "activity": "Chatting with guests"
+            "location": "Study",
+            "activity": "Rinsing a glass carefully"
         },
         {
             "time": "20:10 PM",
-            "location": "Dining Room",
-            "activity": "Whittling a stick"
+            "location": "Living Room",
+            "activity": "Observing guests from afar"
         },
         {
             "time": "20:20 PM",
-            "location": "Kitchen",
-            "activity": "Bringing in the shopping"
+            "location": "Living Room",
+            "activity": "Taking her dog for a walk"
         },
         {
             "time": "20:30 PM",
-            "location": "Dining Room",
-            "activity": "Bragging about their Birkin"
+            "location": "Study",
+            "activity": "Raising a painting"
         },
         {
             "time": "20:40 PM",
-            "location": "Kitchen",
-            "activity": "Polishing household items"
+            "location": "Living Room",
+            "activity": "Inflating balloons"
         },
         {
             "time": "20:50 PM",
-            "location": "Kitchen",
-            "activity": "Ripping wippets"
+            "location": "Bathroom",
+            "activity": "Taking her dog for a walk"
         },
         {
             "time": "21:00 PM",
-            "location": "Dining Room",
-            "activity": "Complaining about TSA going through their purse"
+            "location": "Living Room",
+            "activity": "Raising a painting"
         },
         {
             "time": "21:10 PM",
-            "location": "Living Room",
-            "activity": "Tying decorative knots"
+            "location": "Bathroom",
+            "activity": "Tampering with drinks"
         },
         {
             "time": "21:20 PM",
             "location": "Bathroom",
-            "activity": "Serving drinks and chatting with guests"
+            "activity": "Reorganizing books and materials"
         },
         {
             "time": "21:30 PM",
-            "location": "Bathroom",
-            "activity": "Bragging about their Birkin"
+            "location": "Living Room",
+            "activity": "Raising a painting"
         },
         {
             "time": "21:40 PM",
-            "location": "Bathroom",
-            "activity": "Peeling an orange"
+            "location": "Study",
+            "activity": "Raising a painting"
         },
         {
             "time": "21:50 PM",
-            "location": "Living Room",
-            "activity": "Chatting with guests"
+            "location": "Study",
+            "activity": "Bringing in the shopping"
         },
         {
             "time": "22:00 PM",
             "location": "Study",
-            "activity": "Complaining about TSA going through their purse"
+            "activity": "Raising a painting"
         },
         {
             "time": "22:10 PM",
             "location": "Study",
-            "activity": "Peeling an orange"
+            "activity": "Chatting with guests"
         }
     ],
     "gps_data": [
         {
             "time": "19:00 PM",
-            "location": "Dining Room",
-            "signal_strength": 0.8668623495738791
+            "location": "Living Room",
+            "signal_strength": 0.7061572526848275
         },
         {
             "time": "19:10 PM",
-            "location": "Kitchen",
-            "signal_strength": 0.7248848607540775
+            "location": "Study",
+            "signal_strength": 0.7271256595668497
         },
         {
             "time": "19:20 PM",
-            "location": "Dining Room",
-            "signal_strength": 0.7676646797485295
+            "location": "Bathroom",
+            "signal_strength": 0.3265221061749208
         },
         {
             "time": "19:30 PM",
-            "location": "Dining Room",
-            "signal_strength": 0.7732779766441109
+            "location": "Study",
+            "signal_strength": 0.6671112362236508
         },
         {
             "time": "19:40 PM",
-            "location": "Dining Room",
-            "signal_strength": 0.888181631501616
+            "location": "Living Room",
+            "signal_strength": 0.6576134642933085
         },
         {
             "time": "19:50 PM",
-            "location": "Kitchen",
-            "signal_strength": 0.7213763889357526
+            "location": "Living Room",
+            "signal_strength": 0.949067258940988
         },
         {
             "time": "20:00 PM",
-            "location": "Dining Room",
-            "signal_strength": 0.796869209362501
+            "location": "Living Room",
+            "signal_strength": 0.3063495485932132
         },
         {
             "time": "20:10 PM",
-            "location": "Dining Room",
-            "signal_strength": 0.7933868996593637
+            "location": "Living Room",
+            "signal_strength": 0.8553873355711056
         },
         {
             "time": "20:20 PM",
-            "location": "Kitchen",
-            "signal_strength": 0.8015471403734868
+            "location": "Bathroom",
+            "signal_strength": 0.42856643919044884
         },
         {
             "time": "20:30 PM",
-            "location": "Dining Room",
-            "signal_strength": 0.7950103481756474
+            "location": "Study",
+            "signal_strength": 0.6459111547225982
         },
         {
             "time": "20:40 PM",
-            "location": "Kitchen",
-            "signal_strength": 0.8104620785190033
+            "location": "Living Room",
+            "signal_strength": 0.7572619813880849
         },
         {
             "time": "20:50 PM",
             "location": "Kitchen",
-            "signal_strength": 0.7512504027030892
+            "signal_strength": 0.11941928633324836
         },
         {
             "time": "21:00 PM",
-            "location": "Dining Room",
-            "signal_strength": 0.8296961943087215
+            "location": "Study",
+            "signal_strength": 0.007622370225029967
         },
         {
             "time": "21:10 PM",
             "location": "Living Room",
-            "signal_strength": 0.8914890027020499
+            "signal_strength": 0.27714315608064766
         },
         {
             "time": "21:20 PM",
-            "location": "Bathroom",
-            "signal_strength": 0.7346469394486487
+            "location": "Living Room",
+            "signal_strength": 0.22499845201396323
         },
         {
             "time": "21:30 PM",
-            "location": "Bathroom",
-            "signal_strength": 0.7600576165508071
+            "location": "Living Room",
+            "signal_strength": 0.8525305636607308
         },
         {
             "time": "21:40 PM",
-            "location": "Bathroom",
-            "signal_strength": 0.7739349765838963
+            "location": "Living Room",
+            "signal_strength": 0.0786350635334992
         },
         {
             "time": "21:50 PM",
             "location": "Living Room",
-            "signal_strength": 0.8308169993520751
+            "signal_strength": 0.20448442591389374
         },
         {
             "time": "22:00 PM",
-            "location": "Study",
-            "signal_strength": 0.8329890846452626
+            "location": "Living Room",
+            "signal_strength": 0.4021599573696566
         },
         {
             "time": "22:10 PM",
-            "location": "Study",
-            "signal_strength": 0.8136459584993172
+            "location": "Living Room",
+            "signal_strength": 0.23761428910444812
         }
     ],
     "witness_statements": {
         "Tom": {
-            "witness_reliability": 0.7349625914282952,
+            "witness_reliability": 0.3900307162860875,
+            "observations": []
+        },
+        "Pancho": {
+            "witness_reliability": 0.5161972425391446,
             "observations": [
                 {
-                    "time": "19:30 PM",
-                    "location": "Dining Room",
-                    "activity": "Retrieving items from storage"
+                    "time": "19:10 PM",
+                    "location": "Study",
+                    "activity": "Observing guests from afar"
                 },
                 {
-                    "time": "19:40 PM",
-                    "location": "Dining Room",
-                    "activity": "Chatting with guests"
+                    "time": "20:20 PM",
+                    "location": "Bathroom",
+                    "activity": "Reorganizing books and materials"
                 },
                 {
-                    "time": "20:30 PM",
-                    "location": "Dining Room",
-                    "activity": "Bragging about their Birkin"
+                    "time": "20:40 PM",
+                    "location": "Living Room",
+                    "activity": "Observing guests from afar"
+                },
+                {
+                    "time": "21:50 PM",
+                    "location": "Study",
+                    "activity": "Tying decorative knots"
                 },
                 {
                     "time": "22:00 PM",
                     "location": "Study",
-                    "activity": "Bragging about their Birkin"
+                    "activity": "Observing guests from afar"
+                },
+                {
+                    "time": "22:10 PM",
+                    "location": "Living Room",
+                    "activity": "Observing guests from afar"
                 }
             ]
         },
-        "Pancho": {
-            "witness_reliability": 0.7937425239694904,
-            "observations": []
-        },
         "Sophia": {
-            "witness_reliability": 0.7101366235858855,
+            "witness_reliability": 0.3407306403079892,
             "observations": [
                 {
-                    "time": "20:00 PM",
-                    "location": "Dining Room",
-                    "activity": "Bragging about their Birkin"
+                    "time": "20:30 PM",
+                    "location": "Study",
+                    "activity": "Reorganizing books and materials"
                 }
             ]
         },
         "Olivia": {
-            "witness_reliability": 0.7489810352862124,
-            "observations": []
-        },
-        "Sam": {
-            "witness_reliability": 0.7649988193842961,
+            "witness_reliability": 0.43306231901841175,
             "observations": [
                 {
+                    "time": "19:40 PM",
+                    "location": "Living Room",
+                    "activity": "Taking her dog for a walk"
+                },
+                {
+                    "time": "20:40 PM",
+                    "location": "Dining Room",
+                    "activity": "Observing guests from afar"
+                }
+            ]
+        },
+        "Sam": {
+            "witness_reliability": 0.4506728958176312,
+            "observations": [
+                {
+                    "time": "20:10 PM",
+                    "location": "Study",
+                    "activity": "Raising a painting"
+                },
+                {
                     "time": "20:50 PM",
-                    "location": "Kitchen",
-                    "activity": "Complaining about TSA going through their purse"
+                    "location": "Bathroom",
+                    "activity": "Tying decorative knots"
+                },
+                {
+                    "time": "21:20 PM",
+                    "location": "Bathroom",
+                    "activity": "Raising a painting"
                 }
             ]
         },
         "Tyler": {
-            "witness_reliability": 0.7739102082720684,
+            "witness_reliability": 0.3677916328687173,
             "observations": [
                 {
-                    "time": "19:20 PM",
-                    "location": "Dining Room",
-                    "activity": "Bragging about their Birkin"
+                    "time": "20:20 PM",
+                    "location": "Living Room",
+                    "activity": "Tying decorative knots"
                 },
                 {
-                    "time": "21:40 PM",
-                    "location": "Bathroom",
-                    "activity": "Complaining about TSA going through their purse"
+                    "time": "21:00 PM",
+                    "location": "Living Room",
+                    "activity": "Observing guests from afar"
+                },
+                {
+                    "time": "21:10 PM",
+                    "location": "Living Room",
+                    "activity": "Tying decorative knots"
                 }
             ]
         }

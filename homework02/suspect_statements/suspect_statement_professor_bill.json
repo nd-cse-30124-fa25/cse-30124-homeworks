@@ -1,288 +1,327 @@
 {
     "name": "Professor Bill",
-    "prior_truthfulness": 0.6073851782953529,
     "suspect_statement": [
         {
             "time": "19:00 PM",
-            "location": "Living Room",
-            "activity": "Inspecting wine bottles"
+            "location": "Dining Room",
+            "activity": "Talking about skeet shooting"
         },
         {
             "time": "19:10 PM",
-            "location": "Study",
-            "activity": "Taking her dog for a walk"
-        },
-        {
-            "time": "19:20 PM",
-            "location": "Living Room",
-            "activity": "Reading a novel quietly"
-        },
-        {
-            "time": "19:30 PM",
-            "location": "Study",
+            "location": "Kitchen",
             "activity": "Tying decorative knots"
         },
         {
-            "time": "19:40 PM",
-            "location": "Living Room",
-            "activity": "Observing guests from afar"
-        },
-        {
-            "time": "19:50 PM",
-            "location": "Living Room",
-            "activity": "Reading a novel quietly"
-        },
-        {
-            "time": "20:00 PM",
-            "location": "Study",
-            "activity": "Rinsing a glass carefully"
-        },
-        {
-            "time": "20:10 PM",
-            "location": "Living Room",
-            "activity": "Observing guests from afar"
-        },
-        {
-            "time": "20:20 PM",
-            "location": "Living Room",
-            "activity": "Taking her dog for a walk"
-        },
-        {
-            "time": "20:30 PM",
-            "location": "Study",
-            "activity": "Raising a painting"
-        },
-        {
-            "time": "20:40 PM",
-            "location": "Living Room",
+            "time": "19:20 PM",
+            "location": "Dining Room",
             "activity": "Inflating balloons"
         },
         {
+            "time": "19:30 PM",
+            "location": "Dining Room",
+            "activity": "Complaining about TSA going through their purse"
+        },
+        {
+            "time": "19:40 PM",
+            "location": "Dining Room",
+            "activity": "Looking in drawers"
+        },
+        {
+            "time": "19:50 PM",
+            "location": "Kitchen",
+            "activity": "Ripping wippets"
+        },
+        {
+            "time": "20:00 PM",
+            "location": "Dining Room",
+            "activity": "Chatting with guests"
+        },
+        {
+            "time": "20:10 PM",
+            "location": "Dining Room",
+            "activity": "Whittling a stick"
+        },
+        {
+            "time": "20:20 PM",
+            "location": "Kitchen",
+            "activity": "Bringing in the shopping"
+        },
+        {
+            "time": "20:30 PM",
+            "location": "Dining Room",
+            "activity": "Bragging about their Birkin"
+        },
+        {
+            "time": "20:40 PM",
+            "location": "Kitchen",
+            "activity": "Polishing household items"
+        },
+        {
             "time": "20:50 PM",
-            "location": "Bathroom",
-            "activity": "Taking her dog for a walk"
+            "location": "Kitchen",
+            "activity": "Ripping wippets"
         },
         {
             "time": "21:00 PM",
-            "location": "Living Room",
-            "activity": "Raising a painting"
+            "location": "Dining Room",
+            "activity": "Complaining about TSA going through their purse"
         },
         {
             "time": "21:10 PM",
-            "location": "Bathroom",
-            "activity": "Tampering with drinks"
+            "location": "Living Room",
+            "activity": "Tying decorative knots"
         },
         {
             "time": "21:20 PM",
             "location": "Bathroom",
-            "activity": "Reorganizing books and materials"
+            "activity": "Serving drinks and chatting with guests"
         },
         {
             "time": "21:30 PM",
-            "location": "Living Room",
-            "activity": "Raising a painting"
+            "location": "Bathroom",
+            "activity": "Bragging about their Birkin"
         },
         {
             "time": "21:40 PM",
-            "location": "Study",
-            "activity": "Raising a painting"
+            "location": "Bathroom",
+            "activity": "Peeling an orange"
         },
         {
             "time": "21:50 PM",
-            "location": "Study",
-            "activity": "Bringing in the shopping"
+            "location": "Living Room",
+            "activity": "Chatting with guests"
         },
         {
             "time": "22:00 PM",
             "location": "Study",
-            "activity": "Raising a painting"
+            "activity": "Complaining about TSA going through their purse"
         },
         {
             "time": "22:10 PM",
             "location": "Study",
-            "activity": "Chatting with guests"
+            "activity": "Peeling an orange"
         }
     ],
     "gps_data": [
         {
             "time": "19:00 PM",
-            "location": "Living Room",
-            "signal_strength": 0.8017989421903304
+            "location": "Study",
+            "signal_strength": 0.2925473756508447
         },
         {
             "time": "19:10 PM",
-            "location": "Study",
-            "signal_strength": 0.8187942962723017
+            "location": "Living Room",
+            "signal_strength": 0.1320898797799869
         },
         {
             "time": "19:20 PM",
-            "location": "Living Room",
-            "signal_strength": 0.7083242198880357
+            "location": "Dining Room",
+            "signal_strength": 0.8901369883242616
         },
         {
             "time": "19:30 PM",
-            "location": "Study",
-            "signal_strength": 0.7042413842385673
+            "location": "Dining Room",
+            "signal_strength": 0.6903433462445621
         },
         {
             "time": "19:40 PM",
-            "location": "Living Room",
-            "signal_strength": 0.7677014023203689
+            "location": "Dining Room",
+            "signal_strength": 0.7384304497900133
         },
         {
             "time": "19:50 PM",
-            "location": "Living Room",
-            "signal_strength": 0.8575718115073406
+            "location": "Kitchen",
+            "signal_strength": 0.8434739197133859
         },
         {
             "time": "20:00 PM",
-            "location": "Study",
-            "signal_strength": 0.846191005489855
+            "location": "Dining Room",
+            "signal_strength": 0.6628017886568691
         },
         {
             "time": "20:10 PM",
-            "location": "Living Room",
-            "signal_strength": 0.8758838604367115
+            "location": "Dining Room",
+            "signal_strength": 0.8748682819113038
         },
         {
             "time": "20:20 PM",
-            "location": "Living Room",
-            "signal_strength": 0.7253414231179591
+            "location": "Dining Room",
+            "signal_strength": 0.3519232621350941
         },
         {
             "time": "20:30 PM",
             "location": "Study",
-            "signal_strength": 0.7510683214780538
+            "signal_strength": 0.28944429475544825
         },
         {
             "time": "20:40 PM",
-            "location": "Living Room",
-            "signal_strength": 0.7275798587245803
+            "location": "Kitchen",
+            "signal_strength": 0.6235944709311374
         },
         {
             "time": "20:50 PM",
-            "location": "Bathroom",
-            "signal_strength": 0.7692162064396529
+            "location": "Kitchen",
+            "signal_strength": 0.6554493099007376
         },
         {
             "time": "21:00 PM",
-            "location": "Living Room",
-            "signal_strength": 0.7567633406085513
+            "location": "Dining Room",
+            "signal_strength": 0.7340510996544133
         },
         {
             "time": "21:10 PM",
-            "location": "Bathroom",
-            "signal_strength": 0.8896304847673944
+            "location": "Dining Room",
+            "signal_strength": 0.0919888842305048
         },
         {
             "time": "21:20 PM",
             "location": "Bathroom",
-            "signal_strength": 0.8686383279874893
+            "signal_strength": 0.7207968508966421
         },
         {
             "time": "21:30 PM",
             "location": "Living Room",
-            "signal_strength": 0.7622540383839163
+            "signal_strength": 0.5256030810790565
         },
         {
             "time": "21:40 PM",
-            "location": "Study",
-            "signal_strength": 0.8374522131323521
+            "location": "Bathroom",
+            "signal_strength": 0.5107120617971657
         },
         {
             "time": "21:50 PM",
-            "location": "Study",
-            "signal_strength": 0.7848322762537244
+            "location": "Living Room",
+            "signal_strength": 0.6905896343144592
         },
         {
             "time": "22:00 PM",
             "location": "Study",
-            "signal_strength": 0.7496912854576564
+            "signal_strength": 0.6847992082965956
         },
         {
             "time": "22:10 PM",
-            "location": "Study",
-            "signal_strength": 0.7791050834358169
+            "location": "Living Room",
+            "signal_strength": 0.34856085557976735
         }
     ],
     "witness_statements": {
         "Tom": {
-            "witness_reliability": 0.7657531235431785,
+            "witness_reliability": 0.5366549574949625,
             "observations": [
                 {
-                    "time": "22:10 PM",
-                    "location": "Study",
-                    "activity": "Raising a painting"
+                    "time": "20:20 PM",
+                    "location": "Kitchen",
+                    "activity": "Bragging about their Birkin"
+                },
+                {
+                    "time": "20:40 PM",
+                    "location": "Kitchen",
+                    "activity": "Chatting with guests"
+                },
+                {
+                    "time": "20:50 PM",
+                    "location": "Pantry",
+                    "activity": "Bringing in the shopping"
                 }
             ]
         },
         "Pancho": {
-            "witness_reliability": 0.8083827790839541,
+            "witness_reliability": 0.40831542662677517,
             "observations": [
                 {
+                    "time": "19:00 PM",
+                    "location": "Kitchen",
+                    "activity": "Retrieving items from storage"
+                },
+                {
                     "time": "20:20 PM",
-                    "location": "Living Room",
-                    "activity": "Raising a painting"
+                    "location": "Dining Room",
+                    "activity": "Complaining about TSA going through their purse"
                 },
                 {
-                    "time": "21:40 PM",
-                    "location": "Study",
-                    "activity": "Taking her dog for a walk"
-                },
-                {
-                    "time": "21:50 PM",
-                    "location": "Study",
-                    "activity": "Observing guests from afar"
+                    "time": "21:30 PM",
+                    "location": "Bathroom",
+                    "activity": "Bringing in the shopping"
                 }
             ]
         },
         "Sophia": {
-            "witness_reliability": 0.8659503932004338,
+            "witness_reliability": 0.366386226946362,
             "observations": [
                 {
-                    "time": "19:00 PM",
-                    "location": "Living Room",
-                    "activity": "Raising a painting"
+                    "time": "19:20 PM",
+                    "location": "Study",
+                    "activity": "Bringing in the shopping"
+                },
+                {
+                    "time": "20:10 PM",
+                    "location": "Dining Room",
+                    "activity": "Complaining about TSA going through their purse"
+                },
+                {
+                    "time": "21:50 PM",
+                    "location": "Bathroom",
+                    "activity": "Bragging about their Birkin"
                 }
             ]
         },
         "Olivia": {
-            "witness_reliability": 0.7238493897375868,
-            "observations": [
-                {
-                    "time": "19:50 PM",
-                    "location": "Living Room",
-                    "activity": "Taking her dog for a walk"
-                },
-                {
-                    "time": "20:30 PM",
-                    "location": "Study",
-                    "activity": "Tying decorative knots"
-                },
-                {
-                    "time": "21:20 PM",
-                    "location": "Bathroom",
-                    "activity": "Reorganizing books and materials"
-                }
-            ]
-        },
-        "Sam": {
-            "witness_reliability": 0.8847336182272965,
-            "observations": [
-                {
-                    "time": "21:00 PM",
-                    "location": "Living Room",
-                    "activity": "Raising a painting"
-                }
-            ]
-        },
-        "Tyler": {
-            "witness_reliability": 0.7890874658409142,
+            "witness_reliability": 0.3279954884312719,
             "observations": [
                 {
                     "time": "20:00 PM",
                     "location": "Study",
-                    "activity": "Reorganizing books and materials"
+                    "activity": "Bragging about their Birkin"
+                },
+                {
+                    "time": "21:40 PM",
+                    "location": "Bathroom",
+                    "activity": "Bringing in the shopping"
+                }
+            ]
+        },
+        "Sam": {
+            "witness_reliability": 0.5098547064827564,
+            "observations": [
+                {
+                    "time": "19:00 PM",
+                    "location": "Dining Room",
+                    "activity": "Complaining about TSA going through their purse"
+                },
+                {
+                    "time": "19:10 PM",
+                    "location": "Pantry",
+                    "activity": "Retrieving items from storage"
+                },
+                {
+                    "time": "19:30 PM",
+                    "location": "Study",
+                    "activity": "Bringing in the shopping"
+                },
+                {
+                    "time": "20:40 PM",
+                    "location": "Kitchen",
+                    "activity": "Retrieving items from storage"
+                }
+            ]
+        },
+        "Tyler": {
+            "witness_reliability": 0.4695063410323358,
+            "observations": [
+                {
+                    "time": "19:00 PM",
+                    "location": "Dining Room",
+                    "activity": "Bragging about their Birkin"
+                },
+                {
+                    "time": "20:10 PM",
+                    "location": "Living Room",
+                    "activity": "Bringing in the shopping"
+                },
+                {
+                    "time": "21:20 PM",
+                    "location": "Bathroom",
+                    "activity": "Bringing in the shopping"
                 }
             ]
         }

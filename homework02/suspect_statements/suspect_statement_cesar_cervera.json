@@ -1,6 +1,5 @@
 {
     "name": "Cesar Cervera",
-    "prior_truthfulness": 0.7985034291121755,
     "suspect_statement": [
         {
             "time": "19:00 PM",
@@ -106,133 +105,143 @@
     "gps_data": [
         {
             "time": "19:00 PM",
-            "location": "Pantry",
-            "signal_strength": 0.8085968982529163
+            "location": "Study",
+            "signal_strength": 0.5019343834767135
         },
         {
             "time": "19:10 PM",
-            "location": "Kitchen",
-            "signal_strength": 0.7649975584784603
+            "location": "Dining Room",
+            "signal_strength": 0.17514508402309023
         },
         {
             "time": "19:20 PM",
-            "location": "Pantry",
-            "signal_strength": 0.745784860678759
+            "location": "Kitchen",
+            "signal_strength": 0.5265094771971986
         },
         {
             "time": "19:30 PM",
-            "location": "Kitchen",
-            "signal_strength": 0.7872162758252401
+            "location": "Dining Room",
+            "signal_strength": 0.07742232439253414
         },
         {
             "time": "19:40 PM",
-            "location": "Dining Room",
-            "signal_strength": 0.77384151466247
+            "location": "Study",
+            "signal_strength": 0.42155883609297545
         },
         {
             "time": "19:50 PM",
-            "location": "Kitchen",
-            "signal_strength": 0.704628242698067
+            "location": "Living Room",
+            "signal_strength": 0.47110580253662043
         },
         {
             "time": "20:00 PM",
-            "location": "Pantry",
-            "signal_strength": 0.7463413721865488
+            "location": "Bathroom",
+            "signal_strength": 0.20194628495333922
         },
         {
             "time": "20:10 PM",
-            "location": "Kitchen",
-            "signal_strength": 0.7447613895321764
+            "location": "Dining Room",
+            "signal_strength": 0.1531782480459722
         },
         {
             "time": "20:20 PM",
-            "location": "Pantry",
-            "signal_strength": 0.7703717888262916
+            "location": "Kitchen",
+            "signal_strength": 0.43187891981513943
         },
         {
             "time": "20:30 PM",
-            "location": "Pantry",
-            "signal_strength": 0.8449194785259719
+            "location": "Kitchen",
+            "signal_strength": 0.1917570147859218
         },
         {
             "time": "20:40 PM",
             "location": "Kitchen",
-            "signal_strength": 0.7754189644053677
+            "signal_strength": 0.726943649602224
         },
         {
             "time": "20:50 PM",
             "location": "Pantry",
-            "signal_strength": 0.8819292332378923
+            "signal_strength": 0.794022473156495
         },
         {
             "time": "21:00 PM",
             "location": "Kitchen",
-            "signal_strength": 0.7242875204266483
+            "signal_strength": 0.74370541549747
         },
         {
             "time": "21:10 PM",
-            "location": "Pantry",
-            "signal_strength": 0.8157940982000592
+            "location": "Kitchen",
+            "signal_strength": 0.3539205754420691
         },
         {
             "time": "21:20 PM",
-            "location": "Kitchen",
-            "signal_strength": 0.7727306166181189
+            "location": "Dining Room",
+            "signal_strength": 0.34593226811708633
         },
         {
             "time": "21:30 PM",
-            "location": "Kitchen",
-            "signal_strength": 0.7376234238982678
+            "location": "Dining Room",
+            "signal_strength": 0.22962118939359633
         },
         {
             "time": "21:40 PM",
-            "location": "Pantry",
-            "signal_strength": 0.7185230988799718
+            "location": "Kitchen",
+            "signal_strength": 0.20334156832259764
         },
         {
             "time": "21:50 PM",
             "location": "Kitchen",
-            "signal_strength": 0.7798501389762044
+            "signal_strength": 0.8491626299400014
         },
         {
             "time": "22:00 PM",
-            "location": "Pantry",
-            "signal_strength": 0.8625704685037536
+            "location": "Kitchen",
+            "signal_strength": 0.29384166415806406
         },
         {
             "time": "22:10 PM",
             "location": "Kitchen",
-            "signal_strength": 0.7976142971753427
+            "signal_strength": 0.8729667973176013
         }
     ],
     "witness_statements": {
         "Tom": {
-            "witness_reliability": 0.7166481421335332,
+            "witness_reliability": 0.30758147917060175,
             "observations": [
                 {
-                    "time": "21:50 PM",
+                    "time": "20:20 PM",
                     "location": "Kitchen",
-                    "activity": "Reading warning labels"
+                    "activity": "Inflating balloons"
                 }
             ]
         },
         "Pancho": {
-            "witness_reliability": 0.7595474408398667,
+            "witness_reliability": 0.5104930288151203,
             "observations": [
                 {
-                    "time": "19:00 PM",
-                    "location": "Pantry",
-                    "activity": "Ripping wippets"
-                },
-                {
                     "time": "19:20 PM",
-                    "location": "Pantry",
-                    "activity": "Looking in drawers"
+                    "location": "Kitchen",
+                    "activity": "Reading warning labels"
                 },
                 {
-                    "time": "20:10 PM",
-                    "location": "Kitchen",
-                    "activity": "Inflating balloons"
+                    "time": "20:40 PM",
+                    "location": "Living Room",
+                    "activity": "Looking in drawers"
+                }
+            ]
+        },
+        "Sophia": {
+            "witness_reliability": 0.5111806289010551,
+            "observations": [
+                {
+                    "time": "20:40 PM",
+                    "location": "Dining Room",
+                    "activity": "Speaking in a high-pitched voice"
+                },
+                {
+                    "time": "21:00 PM",
+                    "location": "Dining Room",
+                    "activity": "Speaking in a high-pitched voice"
                 },
                 {
                     "time": "21:40 PM",
@@ -241,38 +250,60 @@
                 }
             ]
         },
-        "Sophia": {
-            "witness_reliability": 0.8837989680187478,
-            "observations": []
-        },
         "Olivia": {
-            "witness_reliability": 0.7560045267623974,
+            "witness_reliability": 0.33070390946996575,
             "observations": [
                 {
-                    "time": "21:10 PM",
-                    "location": "Pantry",
-                    "activity": "Reading warning labels"
+                    "time": "19:40 PM",
+                    "location": "Living Room",
+                    "activity": "Inflating balloons"
                 },
                 {
                     "time": "22:00 PM",
-                    "location": "Pantry",
-                    "activity": "Inflating balloons"
+                    "location": "Bathroom",
+                    "activity": "Looking in drawers"
                 }
             ]
         },
         "Sam": {
-            "witness_reliability": 0.8665302105732323,
+            "witness_reliability": 0.48797712834896323,
             "observations": [
                 {
-                    "time": "20:30 PM",
-                    "location": "Pantry",
+                    "time": "19:00 PM",
+                    "location": "Kitchen",
+                    "activity": "Reading warning labels"
+                },
+                {
+                    "time": "19:40 PM",
+                    "location": "Dining Room",
+                    "activity": "Reading warning labels"
+                },
+                {
+                    "time": "20:20 PM",
+                    "location": "Kitchen",
                     "activity": "Reading warning labels"
                 }
             ]
         },
         "Tyler": {
-            "witness_reliability": 0.8342230885934108,
-            "observations": []
+            "witness_reliability": 0.47345896052887254,
+            "observations": [
+                {
+                    "time": "20:10 PM",
+                    "location": "Study",
+                    "activity": "Looking in drawers"
+                },
+                {
+                    "time": "21:20 PM",
+                    "location": "Dining Room",
+                    "activity": "Looking in drawers"
+                },
+                {
+                    "time": "21:50 PM",
+                    "location": "Kitchen",
+                    "activity": "Ripping wippets"
+                }
+            ]
         }
     }
 }

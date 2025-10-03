@@ -1,162 +1,232 @@
 {
     "name": "Olivia Zino",
-    "prior_truthfulness": 0.5370937505809799,
     "suspect_statement": [],
     "gps_data": [
         {
             "time": "19:00 PM",
-            "location": "Living Room",
-            "signal_strength": 0.7161862724902572
+            "location": "Dining Room",
+            "signal_strength": 0.07923651457074642
         },
         {
             "time": "19:10 PM",
-            "location": "Study",
-            "signal_strength": 0.7327216113542041
+            "location": "Dining Room",
+            "signal_strength": 0.16942954824318723
         },
         {
             "time": "19:20 PM",
             "location": "Living Room",
-            "signal_strength": 0.8720671064240098
+            "signal_strength": 0.6620853881393566
         },
         {
             "time": "19:30 PM",
             "location": "Living Room",
-            "signal_strength": 0.7405738583676017
+            "signal_strength": 0.7904453244396781
         },
         {
             "time": "19:40 PM",
             "location": "Living Room",
-            "signal_strength": 0.8999782906939676
+            "signal_strength": 0.6410304374604908
         },
         {
             "time": "19:50 PM",
             "location": "Living Room",
-            "signal_strength": 0.8757293196132094
+            "signal_strength": 0.8454571212911677
         },
         {
             "time": "20:00 PM",
-            "location": "Study",
-            "signal_strength": 0.7253450612166084
+            "location": "Living Room",
+            "signal_strength": 0.3599038047764665
         },
         {
             "time": "20:10 PM",
-            "location": "Living Room",
-            "signal_strength": 0.7976492427728987
+            "location": "Study",
+            "signal_strength": 0.2580447807603187
         },
         {
             "time": "20:20 PM",
             "location": "Bathroom",
-            "signal_strength": 0.824846256872166
+            "signal_strength": 0.697345140500129
         },
         {
             "time": "20:30 PM",
             "location": "Living Room",
-            "signal_strength": 0.8435452552178513
+            "signal_strength": 0.8875229276073228
         },
         {
             "time": "20:40 PM",
-            "location": "Dining Room",
-            "signal_strength": 0.763617657305652
+            "location": "Living Room",
+            "signal_strength": 0.24745576520503107
         },
         {
             "time": "20:50 PM",
             "location": "Dining Room",
-            "signal_strength": 0.8418619980590625
+            "signal_strength": 0.7665130398537504
         },
         {
             "time": "21:00 PM",
-            "location": "Kitchen",
-            "signal_strength": 0.7110822836608383
+            "location": "Dining Room",
+            "signal_strength": 0.18775195560672292
         },
         {
             "time": "21:10 PM",
-            "location": "Kitchen",
-            "signal_strength": 0.890723821793444
+            "location": "Pantry",
+            "signal_strength": 0.2302072203522875
         },
         {
             "time": "21:20 PM",
             "location": "Kitchen",
-            "signal_strength": 0.7682129591580329
+            "signal_strength": 0.845455211331799
         },
         {
             "time": "21:30 PM",
             "location": "Pantry",
-            "signal_strength": 0.7654866058739495
+            "signal_strength": 0.7647211730842824
         },
         {
             "time": "21:40 PM",
             "location": "Kitchen",
-            "signal_strength": 0.7599116961825605
+            "signal_strength": 0.6578792407194675
         },
         {
             "time": "21:50 PM",
-            "location": "Kitchen",
-            "signal_strength": 0.84448232097454
+            "location": "Dining Room",
+            "signal_strength": 0.17225758466202537
         },
         {
             "time": "22:00 PM",
-            "location": "Pantry",
-            "signal_strength": 0.7384537268496377
+            "location": "Kitchen",
+            "signal_strength": 0.200684156828553
         },
         {
             "time": "22:10 PM",
             "location": "Kitchen",
-            "signal_strength": 0.770712699082834
+            "signal_strength": 0.5673223383251964
         }
     ],
     "witness_statements": {
         "Tom": {
-            "witness_reliability": 0.7583648378311305,
+            "witness_reliability": 0.393281095135613,
             "observations": [
                 {
-                    "time": "19:00 PM",
-                    "location": "Living Room",
-                    "activity": "Opening a safe"
-                }
-            ]
-        },
-        "Pancho": {
-            "witness_reliability": 0.7194323933310364,
-            "observations": [
-                {
-                    "time": "19:10 PM",
+                    "time": "20:00 PM",
                     "location": "Study",
                     "activity": "Polishing household items"
                 },
                 {
-                    "time": "19:50 PM",
-                    "location": "Living Room",
-                    "activity": "Polishing household items"
-                }
-            ]
-        },
-        "Sophia": {
-            "witness_reliability": 0.7508825232507681,
-            "observations": [
+                    "time": "20:10 PM",
+                    "location": "Study",
+                    "activity": "Inspecting a family heirloom"
+                },
                 {
                     "time": "20:30 PM",
                     "location": "Living Room",
                     "activity": "Opening a safe"
+                },
+                {
+                    "time": "21:00 PM",
+                    "location": "Kitchen",
+                    "activity": "Opening a safe"
+                },
+                {
+                    "time": "21:50 PM",
+                    "location": "Dining Room",
+                    "activity": "Polishing household items"
                 }
             ]
         },
-        "Olivia": {
-            "witness_reliability": 0.767597217744682,
+        "Pancho": {
+            "witness_reliability": 0.3947761522964464,
             "observations": [
                 {
-                    "time": "21:20 PM",
+                    "time": "21:40 PM",
+                    "location": "Dining Room",
+                    "activity": "Inspecting a family heirloom"
+                },
+                {
+                    "time": "22:10 PM",
+                    "location": "Dining Room",
+                    "activity": "Washing up after handling items"
+                }
+            ]
+        },
+        "Sophia": {
+            "witness_reliability": 0.33042645792525493,
+            "observations": [
+                {
+                    "time": "21:50 PM",
                     "location": "Kitchen",
                     "activity": "Polishing household items"
                 }
             ]
         },
+        "Olivia": {
+            "witness_reliability": 0.5599221370079546,
+            "observations": [
+                {
+                    "time": "19:40 PM",
+                    "location": "Living Room",
+                    "activity": "Inspecting a family heirloom"
+                },
+                {
+                    "time": "19:50 PM",
+                    "location": "Dining Room",
+                    "activity": "Polishing household items"
+                },
+                {
+                    "time": "20:40 PM",
+                    "location": "Kitchen",
+                    "activity": "Inspecting a family heirloom"
+                },
+                {
+                    "time": "22:00 PM",
+                    "location": "Pantry",
+                    "activity": "Talking about skeet shooting"
+                }
+            ]
+        },
         "Sam": {
-            "witness_reliability": 0.7803560316881895,
-            "observations": []
+            "witness_reliability": 0.5970612468234499,
+            "observations": [
+                {
+                    "time": "19:30 PM",
+                    "location": "Living Room",
+                    "activity": "Polishing household items"
+                },
+                {
+                    "time": "19:40 PM",
+                    "location": "Dining Room",
+                    "activity": "Polishing household items"
+                },
+                {
+                    "time": "20:20 PM",
+                    "location": "Bathroom",
+                    "activity": "Polishing household items"
+                },
+                {
+                    "time": "20:40 PM",
+                    "location": "Living Room",
+                    "activity": "Washing up after handling items"
+                },
+                {
+                    "time": "21:00 PM",
+                    "location": "Dining Room",
+                    "activity": "Polishing household items"
+                },
+                {
+                    "time": "21:50 PM",
+                    "location": "Kitchen",
+                    "activity": "Inspecting a family heirloom"
+                }
+            ]
         },
         "Tyler": {
-            "witness_reliability": 0.7822573519705975,
+            "witness_reliability": 0.393569814764813,
             "observations": [
+                {
+                    "time": "19:20 PM",
+                    "location": "Dining Room",
+                    "activity": "Inspecting a family heirloom"
+                },
                 {
                     "time": "19:40 PM",
                     "location": "Living Room",
