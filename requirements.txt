@@ -1,0 +1,15 @@
+ipython
+matplotlib
+nltk
+numpy
+opencv-python
+pandas
+pillow
+scikit-image
+scikit-learn
+seaborn
+torch
+torchvision
+cudf
+cuml
+cupy
