@@ -1,4 +1,5 @@
 .vscode
 .venv
+.DS_Store
 */*_solutions.ipynb
 homework03/letters
