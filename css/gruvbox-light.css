@@ -643,3 +643,37 @@ span.linenos.special {
   padding-left: 5px;
   padding-right: 5px;
 }
+
+/* Markdown table overrides */
+.jp-RenderedHTMLCommon table:not(.schedule),
+body table:not(.schedule) {
+  border-collapse: collapse !important;
+  background-color: #fbf7db !important;
+  color: #3c3836 !important;
+}
+
+.jp-RenderedHTMLCommon table:not(.schedule) th,
+.jp-RenderedHTMLCommon table:not(.schedule) td,
+body table:not(.schedule) th,
+body table:not(.schedule) td {
+  border: 1px solid #d5c4a1 !important;
+  padding: 0.6em 0.75em !important;
+  color: inherit !important;
+}
+
+.jp-RenderedHTMLCommon table:not(.schedule) thead th,
+body table:not(.schedule) thead th {
+  background-color: #ebdbb2 !important;
+  color: #af3a03 !important;
+  font-weight: 600 !important;
+}
+
+.jp-RenderedHTMLCommon table:not(.schedule) tbody tr:nth-child(even),
+body table:not(.schedule) tbody tr:nth-child(even) {
+  background-color: #f2e5bc !important;
+}
+
+.jp-RenderedHTMLCommon table:not(.schedule) tbody tr:hover,
+body table:not(.schedule) tbody tr:hover {
+  background-color: rgba(214, 93, 14, 0.12) !important;
+}
