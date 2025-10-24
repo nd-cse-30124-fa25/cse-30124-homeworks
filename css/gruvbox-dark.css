@@ -7,6 +7,25 @@ body {
   color: #ebdbb2 !important;
 }
 
+body p,
+body li,
+body span,
+body td,
+body th,
+body label,
+body strong,
+body b,
+body .form-control,
+body .text-muted,
+body .table > tbody > tr > td,
+body .table > thead > tr > th {
+  color: #ebdbb2 !important;
+}
+
+.text-muted {
+  color: #bdae93 !important;
+}
+
 .container {
   background-color: transparent !important;
   border-color: transparent !important;
