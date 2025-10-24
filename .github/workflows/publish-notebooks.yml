@@ -45,6 +45,53 @@ jobs:
               --output-dir "$outdir"
           done < <(find . -type f -name '*.ipynb' -not -path '*/.ipynb_checkpoints/*' -print0)
 
+      - name: Create light and dark themed copies
+        run: |
+          python <<'PY'
+          import os
+          import shutil
+          from pathlib import Path
+
+          site_root = Path("site")
+          source_css_dir = Path("css")
+          target_css_dir = site_root / "css"
+          target_css_dir.mkdir(parents=True, exist_ok=True)
+
+          if source_css_dir.exists():
+              for css_file in source_css_dir.glob("*.css"):
+                  shutil.copy2(css_file, target_css_dir / css_file.name)
+
+          variants = {
+              "light": "gruvbox-light.css",
+              "dark": "gruvbox-dark.css",
+          }
+
+          html_files = [
+              p for p in site_root.rglob("*.html")
+              if not any(p.name.endswith(f"-{variant}.html") for variant in variants)
+          ]
+
+          for html_path in html_files:
+              original = html_path.read_text()
+
+              for variant, css_name in variants.items():
+                  dest = html_path.with_name(f"{html_path.stem}-{variant}.html")
+                  rel_href = os.path.relpath(target_css_dir / css_name, dest.parent).replace(os.sep, "/")
+                  link_tag = f'<link rel="stylesheet" href="{rel_href}" data-theme="{variant}">'
+
+                  if "</head>" in original:
+                      themed = original.replace("</head>", f"  {link_tag}\n</head>", 1)
+                  else:
+                      themed = f"{link_tag}\n{original}"
+
+                  if "<body" in themed:
+                      themed = themed.replace("<body", f'<body data-theme="{variant}"', 1)
+
+                  dest.write_text(themed)
+
+              html_path.unlink()
+          PY
+
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:

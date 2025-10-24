@@ -1,0 +1,649 @@
+@import url('blugold.css');
+
+/* Override palette for the Gruvbox variant while inheriting Blugold layout */
+
+body {
+  background-color: #1d2021 !important;
+  color: #ebdbb2 !important;
+}
+
+.container {
+  background-color: transparent !important;
+  border-color: transparent !important;
+  box-shadow: none !important;
+  color: inherit !important;
+}
+
+.page-header {
+  border-color: #665c54 !important;
+  color: #ebdbb2 !important;
+}
+
+.page-header h1 {
+  color: #fb4934 !important;
+}
+
+.page-header .nav > li > a,
+.page-header .nav > li > a:visited {
+  color: #83a598 !important;
+}
+
+.page-header .nav > li > a:hover {
+  color: #d65d0e !important;
+}
+
+h1,
+h2 {
+  color: #b8bb26 !important;
+}
+
+h3,
+h4,
+h5,
+h6 {
+  color: #fabd2f !important;
+}
+
+a {
+  color: #83a598 !important;
+}
+
+a:hover,
+a:focus {
+  color: #d65d0e !important;
+}
+
+.panel,
+.panel-heading,
+.panel-footer,
+.panel-default,
+.panel-default > .panel-heading,
+.panel-default > .panel-footer,
+.panel-default > .panel-body {
+  background-color: #282828 !important;
+  border-color: #504945 !important;
+  color: #ebdbb2 !important;
+}
+
+.panel-heading,
+.panel-default > .panel-heading {
+  background-color: #32302f !important;
+  color: #fabd2f !important;
+}
+
+.panel-footer,
+.panel-default > .panel-footer {
+  color: #d5c4a1 !important;
+}
+
+.panel-title,
+.panel-title a,
+.panel-default > .panel-heading .panel-title {
+  color: #b8bb26 !important;
+}
+
+.table {
+  background-color: #282828 !important;
+  color: #ebdbb2 !important;
+}
+
+.table > thead > tr > th,
+.table > tbody > tr > td,
+.table-bordered > thead > tr > th,
+.table-bordered > tbody > tr > td {
+  border-color: #504945 !important;
+}
+
+.list-group-item {
+  background-color: #282828 !important;
+  border-color: #504945 !important;
+  color: #ebdbb2 !important;
+}
+
+.form-control,
+input,
+textarea {
+  background-color: #32302f !important;
+  border-color: #665c54 !important;
+  color: #ebdbb2 !important;
+}
+
+.form-control::placeholder {
+  color: #bdae93 !important;
+}
+
+.btn,
+.btn-default,
+.btn-link {
+  border-color: #665c54 !important;
+  color: #83a598 !important;
+  background-color: transparent !important;
+}
+
+.btn:hover,
+.btn:focus,
+.btn-link:hover {
+  color: #d65d0e !important;
+  border-color: #d65d0e !important;
+}
+
+.label-success {
+  background-color: #b8bb26 !important;
+  color: #1d2021 !important;
+}
+
+.label-warning {
+  background-color: #fe8019 !important;
+  color: #1d2021 !important;
+}
+
+.label-info {
+  background-color: #83a598 !important;
+  color: #1d2021 !important;
+}
+
+.alert-info {
+  background-color: rgba(131, 165, 152, 0.2) !important;
+  border-color: #83a598 !important;
+  color: #ebdbb2 !important;
+}
+
+blockquote {
+  border-left-color: #665c54 !important;
+  color: #d5c4a1 !important;
+}
+
+pre,
+code,
+pre code {
+  background-color: #32302f !important;
+  border: 1px solid #504945 !important;
+  color: #ebdbb2 !important;
+}
+
+.nav-pills > li > a {
+  color: #83a598 !important;
+}
+
+.nav-pills > li.active > a,
+.nav-pills > li.active > a:hover,
+.nav-pills > li.active > a:focus {
+  background-color: #83a598 !important;
+  color: #1d2021 !important;
+}
+
+footer,
+footer p {
+  color: #d5c4a1 !important;
+}
+
+.library-card a {
+  color: #83a598 !important;
+}
+
+.library-card a:hover {
+  color: #d65d0e !important;
+}
+
+.topic-row:nth-child(even) {
+  background-color: rgba(80, 73, 69, 0.45) !important;
+}
+
+.topic-row:nth-child(odd) {
+  background-color: rgba(40, 40, 40, 0.6) !important;
+}
+
+.progress {
+  background-color: #32302f !important;
+}
+
+.progress-bar {
+  background-color: #b8bb26 !important;
+  color: #1d2021 !important;
+}
+
+.badge {
+  background-color: #b8bb26 !important;
+  color: #1d2021 !important;
+}
+
+.modal-content {
+  background-color: #282828 !important;
+  color: #ebdbb2 !important;
+  border-color: #504945 !important;
+}
+
+.modal-header,
+.modal-footer {
+  border-color: #665c54 !important;
+}
+
+/* Schedule table overrides */
+[data-theme="gruvbox"] table.schedule {
+  background-color: #282828 !important;
+  color: #ebdbb2 !important;
+  border-color: #504945 !important;
+}
+
+[data-theme="gruvbox"] table.schedule thead tr {
+  background-color: #3c3836 !important;
+}
+
+[data-theme="gruvbox"] table.schedule th {
+  border-color: #665c54 !important;
+  color: #fabd2f !important;
+}
+
+[data-theme="gruvbox"] table.schedule td {
+  border-color: #504945 !important;
+}
+
+[data-theme="gruvbox"] table.schedule td.unit {
+  background-color: #32302f !important;
+  border-right: 2px solid #665c54 !important;
+  color: #d5c4a1 !important;
+}
+
+[data-theme="gruvbox"] table.schedule tbody tr.topic-row:nth-of-type(even) {
+  background-color: #3a3432 !important;
+}
+
+[data-theme="gruvbox"] table.schedule tbody tr.topic-row:nth-of-type(odd) {
+  background-color: #2e2a28 !important;
+}
+
+[data-theme="gruvbox"] table.schedule tbody tr.resource-row {
+  background-color: rgba(29, 32, 33, 0.85) !important;
+}
+
+[data-theme="gruvbox"] table.schedule tbody tr.resource-row td {
+  border-top-color: #665c54 !important;
+}
+
+[data-theme="gruvbox"] table.schedule tr.topic-row td[colspan="4"] {
+  background-color: #3c3836 !important;
+  border-top: 2px solid #665c54 !important;
+  border-bottom: 2px solid #665c54 !important;
+  color: #fabd2f !important;
+}
+
+[data-theme="gruvbox"] table.schedule .caret-icon {
+  color: #fabd2f !important;
+}
+
+[data-theme="gruvbox"] table.schedule .fa-circle-info {
+  color: #83a598 !important;
+}
+
+[data-theme="gruvbox"] table.schedule h4 {
+  color: #fabd2f !important;
+}
+
+[data-theme="gruvbox"] table.schedule ul,
+[data-theme="gruvbox"] table.schedule li {
+  color: #ebdbb2 !important;
+}
+
+[data-theme="gruvbox"] table.schedule a.label {
+  color: #1d2021 !important;
+}
+
+[data-theme="gruvbox"] table.schedule a.label:hover,
+[data-theme="gruvbox"] table.schedule a.label:focus {
+  filter: brightness(1.05);
+}
+
+[data-theme="gruvbox"] .table > thead > tr > th {
+  background-color: #3c3836 !important;
+  color: #fabd2f !important;
+  border-color: #665c54 !important;
+}
+
+[data-theme="gruvbox"] .table-striped > tbody > tr:nth-of-type(odd) {
+  background-color: rgba(60, 56, 54, 0.65) !important;
+}
+
+[data-theme="gruvbox"] .table-striped > tbody > tr:nth-of-type(even) {
+  background-color: rgba(40, 40, 40, 0.55) !important;
+}
+
+[data-theme="gruvbox"] .table-striped > tbody > tr:hover {
+  background-color: rgba(214, 93, 14, 0.25) !important;
+}
+
+[data-theme="gruvbox"] table tr.success > td,
+[data-theme="gruvbox"] table tr.success > th {
+  background-color: rgba(184, 187, 38, 0.25) !important;
+  color: #ebdbb2 !important;
+  border-color: #b8bb26 !important;
+}
+
+[data-theme="gruvbox"] table tr.info > td,
+[data-theme="gruvbox"] table tr.info > th {
+  background-color: rgba(131, 165, 152, 0.25) !important;
+  color: #ebdbb2 !important;
+  border-color: #83a598 !important;
+}
+
+[data-theme="gruvbox"] table tr.warning > td,
+[data-theme="gruvbox"] table tr.warning > th {
+  background-color: rgba(250, 189, 47, 0.2) !important;
+  color: #1d2021 !important;
+  border-color: #d79921 !important;
+}
+
+[data-theme="gruvbox"] table tr.danger > td,
+[data-theme="gruvbox"] table tr.danger > th {
+  background-color: rgba(251, 73, 52, 0.25) !important;
+  color: #1d2021 !important;
+  border-color: #fb4934 !important;
+}
+
+.label-default {
+  background-color: #665c54 !important;
+  color: #1d2021 !important;
+}
+
+.label-default[href]:hover,
+.label-default[href]:focus {
+  background-color: #504945 !important;
+}
+
+.label-primary {
+  background-color: #458588 !important;
+  color: #1d2021 !important;
+}
+
+.label-primary[href]:hover,
+.label-primary[href]:focus {
+  background-color: #5a9aa0 !important;
+}
+
+.label-caution {
+  background-color: #d79921 !important;
+  color: #1d2021 !important;
+}
+
+.label-caution[href]:hover,
+.label-caution[href]:focus {
+  background-color: #fabd2f !important;
+}
+
+.label-danger {
+  background-color: #fb4934 !important;
+  color: #1d2021 !important;
+}
+
+.label-danger[href]:hover,
+.label-danger[href]:focus {
+  background-color: #d73c2b !important;
+}
+
+[data-theme="gruvbox"] .alert {
+  background-color: rgba(40, 40, 40, 0.85);
+  border-color: #665c54;
+  color: #ebdbb2;
+}
+
+[data-theme="gruvbox"] .alert h4 {
+  color: #fabd2f;
+}
+
+[data-theme="gruvbox"] .alert.alert-info {
+  border-color: #83a598;
+  background-color: rgba(131, 165, 152, 0.2);
+}
+
+[data-theme="gruvbox"] .alert.alert-danger {
+  border-color: #fb4934;
+  background-color: rgba(251, 73, 52, 0.2);
+}
+
+/* Pygments syntax highlighting overrides (Gruvbox Dark) */
+.highlight,
+.highlight pre,
+.highlight code,
+.jp-RenderedHTMLCommon pre,
+.jp-RenderedHTMLCommon code,
+.output_subarea pre,
+.output_subarea code {
+  background-color: #282828 !important;
+  color: #ebdbb2 !important;
+  border-color: #504945 !important;
+}
+
+.highlight pre {
+  line-height: 125%;
+}
+
+.highlight .hll {
+  background-color: #ebdbb2;
+  color: #1d2021;
+}
+
+.highlight .c {
+  color: #928374;
+  font-style: italic;
+}
+
+.highlight .err {
+  color: #282828;
+  background-color: #fb4934;
+}
+
+.highlight .esc {
+  color: #ebdbb2;
+}
+
+.highlight .g,
+.highlight .l,
+.highlight .n,
+.highlight .o,
+.highlight .p,
+.highlight .x {
+  color: #ebdbb2;
+}
+
+.highlight .k {
+  color: #fb4934;
+}
+
+.highlight .ch,
+.highlight .cm,
+.highlight .cp,
+.highlight .cpf,
+.highlight .c1 {
+  color: #928374;
+  font-style: italic;
+}
+
+.highlight .c-PreProc {
+  color: #8ec07c;
+  font-style: italic;
+}
+
+.highlight .cs {
+  color: #ebdbb2;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.highlight .gd {
+  color: #282828;
+  background-color: #fb4934;
+}
+
+.highlight .ge {
+  color: #ebdbb2;
+  font-style: italic;
+}
+
+.highlight .ges {
+  color: #ebdbb2;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.highlight .gr,
+.highlight .gt {
+  color: #fb4934;
+}
+
+.highlight .gh,
+.highlight .gu {
+  color: #ebdbb2;
+  font-weight: bold;
+}
+
+.highlight .gh {
+  font-weight: bold;
+}
+
+.highlight .gu {
+  text-decoration: underline;
+}
+
+.highlight .gi {
+  color: #282828;
+  background-color: #b8bb26;
+}
+
+.highlight .go {
+  color: #f2e5bc;
+}
+
+.highlight .gp {
+  color: #a89984;
+}
+
+.highlight .gs {
+  color: #ebdbb2;
+  font-weight: bold;
+}
+
+.highlight .kc,
+.highlight .kd,
+.highlight .kn,
+.highlight .kp,
+.highlight .kr,
+.highlight .kt {
+  color: #fb4934;
+}
+
+.highlight .ld,
+.highlight .ni,
+.highlight .nl,
+.highlight .nx,
+.highlight .py {
+  color: #ebdbb2;
+}
+
+.highlight .m,
+.highlight .mb,
+.highlight .mf,
+.highlight .mh,
+.highlight .mi,
+.highlight .mo,
+.highlight .il {
+  color: #d3869b;
+}
+
+.highlight .s,
+.highlight .sa,
+.highlight .sb,
+.highlight .sc,
+.highlight .sd,
+.highlight .s2,
+.highlight .sh,
+.highlight .si,
+.highlight .sx,
+.highlight .sr,
+.highlight .s1,
+.highlight .ss,
+.highlight .dl {
+  color: #b8bb26;
+}
+
+.highlight .se {
+  color: #fe8019;
+}
+
+.highlight .na {
+  color: #fabd2f;
+}
+
+.highlight .nb,
+.highlight .bp {
+  color: #fe8019;
+}
+
+.highlight .nc,
+.highlight .nn,
+.highlight .nf,
+.highlight .fm {
+  color: #8ec07c;
+}
+
+.highlight .no {
+  color: #d3869b;
+}
+
+.highlight .nd,
+.highlight .ne {
+  color: #fb4934;
+}
+
+.highlight .nt {
+  color: #8ec07c;
+}
+
+.highlight .nv,
+.highlight .vc,
+.highlight .vg,
+.highlight .vi,
+.highlight .vm {
+  color: #83a598;
+}
+
+.highlight .ow {
+  color: #fb4934;
+}
+
+.highlight .pm,
+.highlight .w {
+  color: #ebdbb2;
+}
+
+td.linenos .normal,
+span.linenos {
+  color: inherit;
+  background-color: transparent;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+td.linenos .special,
+span.linenos.special {
+  color: #000000;
+  background-color: #ffffc0;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+[data-theme="gruvbox"] .alert.alert-success {
+  border-color: #b8bb26;
+  background-color: rgba(184, 187, 38, 0.2);
+}
+
+[data-theme="gruvbox"] .alert.alert-warning {
+  border-color: #fe8019;
+  background-color: rgba(254, 128, 25, 0.2);
+}
+
+[data-theme="gruvbox"] .text-primary {
+  color: #fabd2f !important;
+}
+
+[data-theme="gruvbox"] .text-muted {
+  color: #a89984 !important;
+}
