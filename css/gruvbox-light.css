@@ -650,6 +650,12 @@ body table:not(.schedule) {
   border-collapse: collapse !important;
   background-color: #fbf7db !important;
   color: #3c3836 !important;
+  width: auto;
+  margin: 1.2em 0;
+  border: 1px solid #d5c4a1 !important;
+  border-radius: 6px;
+  overflow: hidden;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
 }
 
 .jp-RenderedHTMLCommon table:not(.schedule) th,
@@ -659,6 +665,7 @@ body table:not(.schedule) td {
   border: 1px solid #d5c4a1 !important;
   padding: 0.6em 0.75em !important;
   color: inherit !important;
+  vertical-align: middle;
 }
 
 .jp-RenderedHTMLCommon table:not(.schedule) thead th,
@@ -670,7 +677,12 @@ body table:not(.schedule) thead th {
 
 .jp-RenderedHTMLCommon table:not(.schedule) tbody tr:nth-child(even),
 body table:not(.schedule) tbody tr:nth-child(even) {
-  background-color: #f2e5bc !important;
+  background-color: #f1e1a8 !important;
+}
+
+.jp-RenderedHTMLCommon table:not(.schedule) tbody tr:nth-child(odd),
+body table:not(.schedule) tbody tr:nth-child(odd) {
+  background-color: #fbf2c0 !important;
 }
 
 .jp-RenderedHTMLCommon table:not(.schedule) tbody tr:hover,

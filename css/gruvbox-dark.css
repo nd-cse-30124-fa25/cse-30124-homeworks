@@ -655,6 +655,12 @@ body table:not(.schedule) {
   border-collapse: collapse !important;
   background-color: #282828 !important;
   color: #ebdbb2 !important;
+  width: auto;
+  margin: 1.2em 0;
+  border: 1px solid #504945 !important;
+  border-radius: 6px;
+  overflow: hidden;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.25);
 }
 
 .jp-RenderedHTMLCommon table:not(.schedule) th,
@@ -664,6 +670,7 @@ body table:not(.schedule) td {
   border: 1px solid #504945 !important;
   padding: 0.6em 0.75em !important;
   color: inherit !important;
+  vertical-align: middle;
 }
 
 .jp-RenderedHTMLCommon table:not(.schedule) thead th,
@@ -675,12 +682,17 @@ body table:not(.schedule) thead th {
 
 .jp-RenderedHTMLCommon table:not(.schedule) tbody tr:nth-child(even),
 body table:not(.schedule) tbody tr:nth-child(even) {
-  background-color: #32302f !important;
+  background-color: #2d2c2b !important;
+}
+
+.jp-RenderedHTMLCommon table:not(.schedule) tbody tr:nth-child(odd),
+body table:not(.schedule) tbody tr:nth-child(odd) {
+  background-color: #242322 !important;
 }
 
 .jp-RenderedHTMLCommon table:not(.schedule) tbody tr:hover,
 body table:not(.schedule) tbody tr:hover {
-  background-color: rgba(214, 93, 14, 0.25) !important;
+  background-color: rgba(214, 93, 14, 0.2) !important;
 }
 
 [data-theme="gruvbox"] .alert.alert-success {
