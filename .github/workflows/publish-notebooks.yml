@@ -49,6 +49,7 @@ jobs:
         run: |
           python <<'PY'
           import os
+          import re
           import shutil
           from pathlib import Path
 
@@ -71,18 +72,27 @@ jobs:
               if not any(p.name.endswith(f"-{variant}.html") for variant in variants)
           ]
 
+          todo_pattern = re.compile(r'(<span class="c[^"]*">[^<]*?)(TODO)(?=[:\\s])')
+
+          def highlight_todos(html: str) -> str:
+              return todo_pattern.sub(
+                  lambda m: f'{m.group(1)}<span class="todo-keyword">{m.group(2)}</span>',
+                  html,
+              )
+
           for html_path in html_files:
               original = html_path.read_text()
+              processed = highlight_todos(original)
 
               for variant, css_name in variants.items():
                   dest = html_path.with_name(f"{html_path.stem}-{variant}.html")
                   rel_href = os.path.relpath(target_css_dir / css_name, dest.parent).replace(os.sep, "/")
                   link_tag = f'<link rel="stylesheet" href="{rel_href}" data-theme="{variant}">'
 
-                  if "</head>" in original:
-                      themed = original.replace("</head>", f"  {link_tag}\n</head>", 1)
+                  if "</head>" in processed:
+                      themed = processed.replace("</head>", f"  {link_tag}\n</head>", 1)
                   else:
-                      themed = f"{link_tag}\n{original}"
+                      themed = f"{link_tag}\n{processed}"
 
                   if "<body" in themed:
                       themed = themed.replace("<body", f'<body data-theme="{variant}"', 1)

@@ -600,6 +600,12 @@ footer p {
   color: #af3a03;
 }
 
+.todo-keyword {
+  color: #9d0006 !important;
+  font-weight: 600;
+  font-style: normal;
+}
+
 .highlight .nc,
 .highlight .nn,
 .highlight .nf,

@@ -599,6 +599,12 @@ footer p {
   color: #fe8019;
 }
 
+.todo-keyword {
+  color: #fb4934 !important;
+  font-weight: 600;
+  font-style: normal;
+}
+
 .highlight .nc,
 .highlight .nn,
 .highlight .nf,
