@@ -9,7 +9,6 @@ body {
 
 body p,
 body li,
-body span,
 body td,
 body th,
 body label,
@@ -20,6 +19,10 @@ body .text-muted,
 body .table > tbody > tr > td,
 body .table > thead > tr > th {
   color: #ebdbb2 !important;
+}
+
+body span {
+  color: #ebdbb2;
 }
 
 .text-muted {
@@ -427,7 +430,7 @@ footer p {
 .output_subarea pre,
 .output_subarea code {
   background-color: #282828 !important;
-  color: #ebdbb2 !important;
+  color: #ebdbb2;
   border-color: #504945 !important;
 }
 

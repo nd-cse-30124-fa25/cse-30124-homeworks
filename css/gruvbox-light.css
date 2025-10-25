@@ -460,7 +460,7 @@ footer p {
 .output_subarea pre,
 .output_subarea code {
   background-color: #fbf1c7 !important;
-  color: #3c3836 !important;
+  color: #3c3836;
   border-color: #d5c4a1 !important;
 }
 
