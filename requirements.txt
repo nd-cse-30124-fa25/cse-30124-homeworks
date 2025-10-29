@@ -13,3 +13,4 @@ torchvision
 cudf
 cuml
 cupy
+imblearn
